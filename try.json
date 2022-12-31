@@ -1,0 +1,3182 @@
+[
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "passable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "lasagnes",
+                "pâteuses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patrons",
+                "anciens"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "moyen"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "professionnel"
+            ],
+            [
+                "service",
+                "service",
+                "charmant"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "Deuxième"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "sympathique"
+            ],
+            [
+                "service",
+                "service",
+                "dynamique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "bons"
+            ],
+            [
+                "boisson",
+                "vins",
+                "pas_excellent"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "classiques"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "corrects"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "austère"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "pas_cuite"
+            ],
+            [
+                "nourriture",
+                "viande",
+                "malade"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "manquant"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "bons"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "élevés"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "excellents"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "long"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "déplorable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "bons"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "goûteuses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "efficaces"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "Tous"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "digne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "saignante"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizza",
+                "médiocres"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "paella",
+                "bonne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viandes",
+                "excellentes"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "atypique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "bonne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "frites",
+                "molles"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizzas",
+                "excellentes"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "tardif"
+            ],
+            [
+                "service",
+                "service",
+                "possible"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "bourguignons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "limitée"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "andouillette",
+                "sauce"
+            ],
+            [
+                "nourriture",
+                "andouillette",
+                "dijonnaise"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "andouillette",
+                "excellente"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "tièdes"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "crêpe",
+                "montagnarde"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vin",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "n"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "typiques"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "corses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Pizza",
+                "sèche"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveur",
+                "jeune"
+            ],
+            [
+                "service",
+                "serveur",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "tarte",
+                "tatin"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "attentionné"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "correct"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "autres"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "inexistant"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "savoureux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "goûteux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "fromage",
+                "excellente"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "glacial"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "médiocre"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "exécrable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveur",
+                "n"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "lent"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "chips",
+                "grasses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "tarte",
+                "tropézienne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "désinvolte"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "bons"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "maigrichons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Poulet",
+                "sec"
+            ],
+            [
+                "nourriture",
+                "Poulet",
+                "riz"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "antipathiques"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "gras"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "bière",
+                "chaude"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "traditionnels"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "veau",
+                "vieux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Escalope",
+                "Saltimbocca"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Serveur",
+                "pas_sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "trop_rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "dinde",
+                "pas_cuite"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "desserts",
+                "corrects"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "efficace"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "décevants"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "délicieux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "chèvre",
+                "chaud"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "appétits",
+                "petits"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "chocolat",
+                "chaud"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "pas_détestable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "ingrédients",
+                "tous"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "frais"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "savoureux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "médiocre"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Desserts",
+                "industriels"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "pas_sympathiques"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "crème",
+                "liquide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "peu_onéreux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Serveurs",
+                "pas_aimables"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "mauvais"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "autres"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "simples"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "galettes",
+                "savoureuses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "sympathique"
+            ],
+            [
+                "service",
+                "Service",
+                "efficace"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "correcte"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "sympathiques"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "cuisson",
+                "Mauvaise"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "frites",
+                "vraies"
+            ],
+            [
+                "nourriture",
+                "frites",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "pas_bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "chers"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "lamentable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "surprises"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "saveurs",
+                "excellentes"
+            ],
+            [
+                "nourriture",
+                "saveurs",
+                "excellentes"
+            ],
+            [
+                "nourriture",
+                "saveurs",
+                "dosées"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "corrects"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "classique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "perfectible"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "pas_agréable"
+            ],
+            [
+                "service",
+                "service",
+                "rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizza",
+                "capricioza"
+            ],
+            [
+                "nourriture",
+                "pizza",
+                "bonne"
+            ],
+            [
+                "nourriture",
+                "pizza",
+                "pas_exceptionnel"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "boeuf",
+                "bourguignon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "couscous",
+                "excellent"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "attentionné"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "café",
+                "simple"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "salades",
+                "insipides"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "inexistante"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Desserts",
+                "industriels"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "rosé",
+                "tiède"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "savoureux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Desserts",
+                "originaux"
+            ],
+            [
+                "nourriture",
+                "Desserts",
+                "légers"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "saveur",
+                "pleine"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "correct"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "horrible"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "premier"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "horrible"
+            ],
+            [
+                "service",
+                "service",
+                "horrible"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "veau",
+                "bourratif"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "desserts",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "gouteux"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "originaux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "dégradé"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "poulet",
+                "surcruit"
+            ],
+            [
+                "nourriture",
+                "poulet",
+                "sec"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "parfait"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "correct"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "dessert",
+                "moyen"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "tarte",
+                "froide"
+            ],
+            [
+                "nourriture",
+                "tarte",
+                "fraîche"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "régal",
+                "vrai"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "impeccable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "nombreux"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "différents"
+            ],
+            [
+                "nourriture",
+                "plats",
+                "excellents"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "impeccable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "différents"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "irréprochables"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "excellents"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "cordial"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vin",
+                "parfait"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "aimable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "français"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "désagréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "bio"
+            ],
+            [
+                "boisson",
+                "vins",
+                "naturel"
+            ],
+            [
+                "boisson",
+                "vins",
+                "dégueulasse"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "pas_exceptionnelle"
+            ],
+            [
+                "service",
+                "service",
+                "lent"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "tous"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "carpaccio",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "chauds"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "mauvais"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "compréhensibles"
+            ],
+            [
+                "service",
+                "serveurs",
+                "peu_aimables"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "sympas"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "filet",
+                "cuit"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "traditionnels"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "moyen"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "breton"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vin",
+                "irréprochable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "désordonné"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "saveur",
+                "américaines"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "originale"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "excellents"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "magret",
+                "délicieux"
+            ],
+            [
+                "nourriture",
+                "magret",
+                "excellent"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "salade",
+                "Petite"
+            ],
+            [
+                "nourriture",
+                "salade",
+                "simple"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveurs",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveur",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "lent"
+            ],
+            [
+                "service",
+                "Service",
+                "mauvaise"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "impeccable"
+            ],
+            [
+                "service",
+                "service",
+                "sympathique"
+            ],
+            [
+                "service",
+                "service",
+                "professionnel"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "apéritif",
+                "saumon"
+            ],
+            [
+                "boisson",
+                "apéritif",
+                "charbonneuse"
+            ],
+            [
+                "boisson",
+                "apéritif",
+                "saignante"
+            ],
+            [
+                "boisson",
+                "apéritif",
+                "grises"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "ultra"
+            ],
+            [
+                "service",
+                "Service",
+                "lent"
+            ],
+            [
+                "service",
+                "Service",
+                "serveuses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "soda",
+                "discount"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "principal"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "salade",
+                "miel"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "pas_géniaux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pain",
+                "exquis"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveur",
+                "pas_professionnel"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "impeccable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Patron",
+                "gentil"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "principal"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "prochains"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vins",
+                "sobre"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "fameux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "café",
+                "gourmand"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "dessert",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "correct"
+            ],
+            [
+                "service",
+                "service",
+                "peu_long"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "classiques"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "mariné",
+                "saumon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "moyen"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "galettes",
+                "copieuses"
+            ],
+            [
+                "nourriture",
+                "galettes",
+                "légères"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "frites",
+                "fades"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "excellents"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vin",
+                "seul"
+            ],
+            [
+                "boisson",
+                "vin",
+                "correct"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "salade",
+                "abîmée"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pain",
+                "sec"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "sympathique"
+            ],
+            [
+                "service",
+                "patron",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "recettes",
+                "originales"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizzas",
+                "bonnes"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "trop_long"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "cuillère",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizzas",
+                "bonnes"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pommes",
+                "sautées"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pommes",
+                "trop_salées"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "dessert",
+                "favori"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "continu"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "serveur",
+                "seul"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "long"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "corrects"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "principal"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vin",
+                "excellent"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Millefeuille",
+                "tomates"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "Café",
+                "gourmand"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "fades"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "croustade",
+                "meilleur"
+            ],
+            [
+                "nourriture",
+                "croustade",
+                "bonne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "dure"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Serveurs",
+                "désagréables"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "rapide"
+            ],
+            [
+                "service",
+                "service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "moyen"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "chou",
+                "trop_cuit"
+            ],
+            [
+                "nourriture",
+                "chou",
+                "meilleure"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "cuite"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "vin",
+                "blanc"
+            ],
+            [
+                "boisson",
+                "vin",
+                "adéquat"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "fromages",
+                "bonne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "convenable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizza",
+                "bonne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "bière",
+                "bouteille"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Serveurs",
+                "tips"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "nul"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "antipathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "bacon",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "avariée"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "ingrédients",
+                "tous"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "viande",
+                "tous"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "poissons",
+                "journalier"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "desserts",
+                "gourmands"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "sympa"
+            ],
+            [
+                "service",
+                "service",
+                "décontracté"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "agréable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "déplorable"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "toute"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plat",
+                "copieux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Salade",
+                "peu_fraiche"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "moutarde",
+                "bizarre"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "médiocres"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Plats",
+                "appétissants"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Sauce",
+                "blanche"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "copieux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "cuisson",
+                "parfaite"
+            ],
+            [
+                "nourriture",
+                "cuisson",
+                "chaud"
+            ],
+            [
+                "nourriture",
+                "cuisson",
+                "parfumé"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Galettes",
+                "pas_gouteuses"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "cidre",
+                "bon"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "pro"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizza",
+                "meilleur"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "crème",
+                "fraîche"
+            ],
+            [
+                "nourriture",
+                "crème",
+                "cuite"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "copieux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "frites",
+                "congelé"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "poulet",
+                "croustillant"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizzas",
+                "bonnes"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "pizzas",
+                "garnies"
+            ],
+            [
+                "nourriture",
+                "pizzas",
+                "garnies"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "principaux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "poisson",
+                "trop_dur"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "correcte"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "grillades",
+                "bonne"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "poisson",
+                "bon"
+            ],
+            [
+                "nourriture",
+                "poisson",
+                "frais"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Plat",
+                "principal"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "café",
+                "gourmand"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "plats",
+                "originaux"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "Tajines",
+                "principal"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "boisson",
+                "Vin",
+                "correct"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "sympathique"
+            ],
+            [
+                "service",
+                "Service",
+                "efficace"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "desserts",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "Service",
+                "rapide"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "nourriture",
+                "salade",
+                "grecque"
+            ]
+        ]
+    },
+    {
+        "phrase": "\n",
+        "triplets": [
+            [
+                "service",
+                "patron",
+                "aimable"
+            ]
+        ]
+    }
+]
