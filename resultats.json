@@ -1,6 +1,6 @@
 [
     {
-        "phrase": "Un service passable .. Des plats surcuits, des sauces figées dans leur pot (on se demande si elles n'étaient pas sur d'autres tables avant de nous être servies) , le prix est correct mais le goût n'est pas au rendez vous ... très déçu par ce resto\n",
+        "phrase": "Un service passable",
         "triplets": [
             [
                 "service",
@@ -10,7 +10,19 @@
         ]
     },
     {
-        "phrase": "On commande quand même, lasagnes pâteuses, avec beaucoup de fromage sans saveur sur le dessus, ce qui atténuait l'acidité du concentré de tomates ... !\n",
+        "phrase": "Des plats surcuits, des sauces figées dans leur pot (on se demande si elles n'étaient pas sur d'autres tables avant de nous être servies) , le prix est correct mais le goût n'est pas au rendez vous ... très déçu par ce resto",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons bien aimé l'ambiance, sur la promenade principale de Narbonne-Plage, et la qualité du service.",
+        "triplets": []
+    },
+    {
+        "phrase": "Une adresse à garder pour soi vue imprenable sur l hippodrome et le golf pensez à réserver en bas près des baies vitrées la cuisine et bonne et en plus le service est avec le sourire",
+        "triplets": []
+    },
+    {
+        "phrase": "On commande quand même, lasagnes pâteuses, avec beaucoup de fromage sans saveur sur le dessus, ce qui atténuait l'acidité du concentré de tomates ... !",
         "triplets": [
             [
                 "nourriture",
@@ -20,7 +32,27 @@
         ]
     },
     {
-        "phrase": "Les anciens patrons navaient rien avoir, la patronne ny connait rien de rien en restauration\n",
+        "phrase": "toujours très original, on y goutte des plats qu'on ne verra pas autre part.",
+        "triplets": []
+    },
+    {
+        "phrase": "La table des desserts donne vraiment envie, on vous y coupe une bonne part de tarte gourmande ou de gâteau frais, fait maison!",
+        "triplets": []
+    },
+    {
+        "phrase": "le tartare est excélent",
+        "triplets": []
+    },
+    {
+        "phrase": "et les frites maison",
+        "triplets": []
+    },
+    {
+        "phrase": "2 heures dattentes minumum aucun service et patronne execrable",
+        "triplets": []
+    },
+    {
+        "phrase": "Les anciens patrons navaient rien avoir, la patronne ny connait rien de rien en restauration",
         "triplets": [
             [
                 "service",
@@ -30,7 +62,11 @@
         ]
     },
     {
-        "phrase": "Le service est moyen, les plats également et les prix sont élevés par rapport à la qualité et à la quantité\n",
+        "phrase": "situé dans la petite Venise avec terrasse au bord de l'eau, l'endroit semblait idéal pour cette journée passée à Colmar.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service est moyen, les plats également et les prix sont élevés par rapport à la qualité et à la quantité",
         "triplets": [
             [
                 "service",
@@ -40,7 +76,7 @@
         ]
     },
     {
-        "phrase": "La cuisine est travaillée et change régulièrement, le service est très professionnel, attentionné et charmant.\n",
+        "phrase": "La cuisine est travaillée et change régulièrement, le service est très professionnel, attentionné et charmant.",
         "triplets": [
             [
                 "service",
@@ -55,7 +91,15 @@
         ]
     },
     {
-        "phrase": "Deuxième plat servi : encore des INSECTES.\n",
+        "phrase": "La chaleur de l'établissement et des serveurs contribuent à un bien-être certain!",
+        "triplets": []
+    },
+    {
+        "phrase": "La nourriture et le vin proposé étaient succulents.",
+        "triplets": []
+    },
+    {
+        "phrase": "Deuxième plat servi : encore des INSECTES.",
         "triplets": [
             [
                 "nourriture",
@@ -65,7 +109,11 @@
         ]
     },
     {
-        "phrase": "L'accueil fait par la patronne est toujours souriant et sympathique et le service dynamique et professionnel.\n",
+        "phrase": "Je mange rarement les plats du jour dans les restaurants où je me rends mais j'ai fais une exception cette fois ci.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'accueil fait par la patronne est toujours souriant et sympathique et le service dynamique et professionnel.",
         "triplets": [
             [
                 "service",
@@ -80,7 +128,31 @@
         ]
     },
     {
-        "phrase": "Les vins sont bons mais pas excellent, les tapas quand il y en a encore sont bonnes, heureusement que le personnel est sympathique.\n",
+        "phrase": "Connaissant bien la cuisine de son mari je ne suis pas étonné de la qualité du plat du jour.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'accueil manque un peu de chaleur, le service qui suivra également.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les différents menus à base de \"Mezzés\" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût \"brûlé\".",
+        "triplets": []
+    },
+    {
+        "phrase": "Mention spéciale toutefois à la carte des vins (libanais) et au geste du restaurateur qui a offert une partie des desserts.",
+        "triplets": []
+    },
+    {
+        "phrase": "Allons, une bonne soirée tout de même, mais un effort souhaité sur les goûts et saveurs méditerranéennes !",
+        "triplets": []
+    },
+    {
+        "phrase": "Excellent restaurant a tout point de vue le service la patronne très agréable les plats excellents le vin très bon !",
+        "triplets": []
+    },
+    {
+        "phrase": "Les vins sont bons mais pas excellent, les tapas quand il y en a encore sont bonnes, heureusement que le personnel est sympathique.",
         "triplets": [
             [
                 "boisson",
@@ -95,7 +167,7 @@
         ]
     },
     {
-        "phrase": "Les plats sont classiques mais corrects avec un prix qui l'est aussi.Vient ensuite l'ambiance musicale qui correspond à l'idée que l'on se fait de ses endroits .\n",
+        "phrase": "Les plats sont classiques mais corrects avec un prix qui l'est aussi.",
         "triplets": [
             [
                 "nourriture",
@@ -110,7 +182,15 @@
         ]
     },
     {
-        "phrase": "Service austère.\n",
+        "phrase": "Viande de boeuf façon chewing",
+        "triplets": []
+    },
+    {
+        "phrase": "gum, frites couleur",
+        "triplets": []
+    },
+    {
+        "phrase": "Service austère.",
         "triplets": [
             [
                 "service",
@@ -120,7 +200,7 @@
         ]
     },
     {
-        "phrase": "Ensuite, viande pas cuite et frites molles .... ( malade le lendemain)\n",
+        "phrase": "Ensuite, viande pas cuite et frites molles .... ( malade le lendemain)",
         "triplets": [
             [
                 "nourriture",
@@ -135,7 +215,7 @@
         ]
     },
     {
-        "phrase": "En effet l'accueil plutôt lourd laisse place à un service manquant d'enthousisame et de sourire.\n",
+        "phrase": "En effet l'accueil plutôt lourd laisse place à un service manquant d'enthousisame et de sourire.",
         "triplets": [
             [
                 "service",
@@ -145,7 +225,7 @@
         ]
     },
     {
-        "phrase": "Les plats sont très bons, bien cuisinés et présentés mais les tarifs des vins sont plutôt élevés et au final, la note s'avère en décalage avec l'expérience vécue (plus de 100€ à deux pour 1 entrée/2 plats/1 dessert avec vin et café), dans une ambiance vintage/rustique plutôt réussie, mais gâchée par une musique pop/variét sans lien avec la cadre et le concept, diffusée un peu trop fort pour un restaurant ou l'on souhaite passer un moment de calme et de détente.\n",
+        "phrase": "Les plats sont très bons, bien cuisinés et présentés mais les tarifs des vins sont plutôt élevés et au final, la note s'avère en décalage avec l'expérience vécue (plus de 100€ à deux pour 1 entrée/2",
         "triplets": [
             [
                 "nourriture",
@@ -156,16 +236,31 @@
                 "nourriture",
                 "plats",
                 "élevés"
-            ],
-            [
-                "nourriture",
-                "plats",
-                "rustique"
             ]
         ]
     },
     {
-        "phrase": "Nous étions cinq pour repas d'affaire tout c'est très bien passé nous avons tous trouvé nos plats excellents, nous reviendrons avec plaisir.\n",
+        "phrase": "dessert avec vin et café)",
+        "triplets": []
+    },
+    {
+        "phrase": "Amateur de fromage, lorsque je suis descendu dans la cave à fromage, en accés illimité, avec plus de 200 fromages à goûter, je me suis cru au paradis pour 32€.",
+        "triplets": []
+    },
+    {
+        "phrase": "Ajouter à cela une binne salade aux noix et du pain au figues, au lardons et j'en passe, plus un service sympa, j'ai passé un excellent moment à chaque passage ici (ma 1ère visite en a appelé d'autres).",
+        "triplets": []
+    },
+    {
+        "phrase": "Possibilité de manger des plats à la carte sur la thématique du fromage.",
+        "triplets": []
+    },
+    {
+        "phrase": "Très belle cave à vin",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous étions cinq pour repas d'affaire tout c'est très bien passé nous avons tous trouvé nos plats excellents, nous reviendrons avec plaisir.",
         "triplets": [
             [
                 "nourriture",
@@ -175,7 +270,15 @@
         ]
     },
     {
-        "phrase": "Service très très long, la patronne qui raconte sa vie alors que le restaurant est bondé et que tout le monde attend, des erreurs dans les plats, du bruit dans les cuisines, etc.\n",
+        "phrase": "Pain du buffet cramé, on nous dit que c'est normal...Une serveuse d'un certain âge très très désagréable et pressée de voir partir les clients, même pas fini l'entrée, on nous emmène le plat, et je ne vous dit pas les réflexions d'un gôut douteux.",
+        "triplets": []
+    },
+    {
+        "phrase": "Repas très moyen pas de sauce même en n en demandant à la serveuse réponse de la serveuse \"ce soir c est la dèche \"",
+        "triplets": []
+    },
+    {
+        "phrase": "Service très très long, la patronne qui raconte sa vie alors que le restaurant est bondé et que tout le monde attend, des erreurs dans les plats, du bruit dans les cuisines, etc.",
         "triplets": [
             [
                 "service",
@@ -185,7 +288,7 @@
         ]
     },
     {
-        "phrase": "Nous nous sommes fait livrer plusieurs fois et nous n'avons jamais été déçus mais le service sur place est déplorable...\n",
+        "phrase": "Nous nous sommes fait livrer plusieurs fois et nous n'avons jamais été déçus mais le service sur place est déplorable...",
         "triplets": [
             [
                 "service",
@@ -195,7 +298,7 @@
         ]
     },
     {
-        "phrase": "Pourtant les plats sont bons et la déco sympa.\n",
+        "phrase": "Pourtant les plats sont bons et la déco sympa.",
         "triplets": [
             [
                 "nourriture",
@@ -210,7 +313,19 @@
         ]
     },
     {
-        "phrase": "Vraiment une adresse à retenir pour les amateurs de viande , une entrecôte qui fond dans la bouche , une sauce simple mais goûteuses et un verre de vin de bonne qualité.\n",
+        "phrase": "C'est donc avec l'eau à la bouche que nous avons été reçus dans cet établissement.",
+        "triplets": []
+    },
+    {
+        "phrase": "produits proposés, cuisson et présentation des assiettes) et service rapide mais il faut améliorer quelques points pour être un bon restaurant : entretien des appareils sanitaires dans la \"salle d'eau\", chaleur de l'accueil et choix des vins proposés (je viens juste de voir sur tripadvisor qu'il s'agissait d'un bar à vins, je n'ai pas compris le concept alors)",
+        "triplets": []
+    },
+    {
+        "phrase": "plats proposés en fonction de l'arrivage, menu concis mais plats extrêmement savoureux.",
+        "triplets": []
+    },
+    {
+        "phrase": "Vraiment une adresse à retenir pour les amateurs de viande , une entrecôte qui fond dans la bouche , une sauce simple mais goûteuses et un verre de vin de bonne qualité.",
         "triplets": [
             [
                 "nourriture",
@@ -220,7 +335,7 @@
         ]
     },
     {
-        "phrase": "Accueil et service sont agréables et efficaces\n",
+        "phrase": "Accueil et service sont agréables et efficaces",
         "triplets": [
             [
                 "service",
@@ -230,7 +345,7 @@
         ]
     },
     {
-        "phrase": "Tous les plats sont bons avec une mention spéciale pour le cassoulet breton\n",
+        "phrase": "Tous les plats sont bons avec une mention spéciale pour le cassoulet breton",
         "triplets": [
             [
                 "nourriture",
@@ -245,7 +360,11 @@
         ]
     },
     {
-        "phrase": "Je n'appelle pas ça un service digne d'un restaurants.\n",
+        "phrase": "Comptez trois quarts d'heure pour avoir uniquement le plat.",
+        "triplets": []
+    },
+    {
+        "phrase": "Je n'appelle pas ça un service digne d'un restaurants.",
         "triplets": [
             [
                 "service",
@@ -255,7 +374,7 @@
         ]
     },
     {
-        "phrase": "Une viande qui n'est pas cuite comme à notre demande : saignante et non à point comme demandé.\n",
+        "phrase": "Une viande qui n'est pas cuite comme à notre demande : saignante et non à point comme demandé.",
         "triplets": [
             [
                 "nourriture",
@@ -265,7 +384,19 @@
         ]
     },
     {
-        "phrase": "Nous avons rarement mangé des pizza aussi médiocres... pas cuites, mal garnies,...\n",
+        "phrase": "Aucune commande de dessert n'a été prise après une demie heure d'attente à la fin du plat.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons donc décidés de partir sans dessert !",
+        "triplets": []
+    },
+    {
+        "phrase": "Beaucoup trop onéreux pour la qualité des plats.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons rarement mangé des pizza aussi médiocres... pas cuites, mal garnies,...",
         "triplets": [
             [
                 "nourriture",
@@ -275,7 +406,7 @@
         ]
     },
     {
-        "phrase": "Service assez rapide vu le nombre de table,assiette bien remplie,personnel sympa choix suffisant\n",
+        "phrase": "Service assez rapide vu le nombre de table,",
         "triplets": [
             [
                 "service",
@@ -285,7 +416,7 @@
         ]
     },
     {
-        "phrase": "très bonne paella ( pour les connaisseurs ) oui grillée dans le fond comme à Barcelone\n",
+        "phrase": "très bonne paella ( pour les connaisseurs )",
         "triplets": [
             [
                 "nourriture",
@@ -295,7 +426,7 @@
         ]
     },
     {
-        "phrase": "viandes excellentes pour les amateurs\n",
+        "phrase": "viandes excellentes pour les amateurs",
         "triplets": [
             [
                 "nourriture",
@@ -305,7 +436,7 @@
         ]
     },
     {
-        "phrase": "patron atypique mais à connaître.\n",
+        "phrase": "patron atypique mais à connaître.",
         "triplets": [
             [
                 "service",
@@ -315,7 +446,11 @@
         ]
     },
     {
-        "phrase": "Carte des vins sympa, on me refuse de corriger le tir sur un verre de vin servi plus généreusement précédemment (à 5,90€ le verre, le comportement du patron (?) est décevant).\n",
+        "phrase": "1ère fois que le service n'est pas à la hauteur de la cuisine dans les restos que je fréquente à Rennes, dommage",
+        "triplets": []
+    },
+    {
+        "phrase": "Carte des vins sympa, on me refuse de corriger le tir sur un verre de vin servi plus généreusement précédemment (à 5,90€ le verre, le comportement du patron (?",
         "triplets": [
             [
                 "boisson",
@@ -325,7 +460,7 @@
         ]
     },
     {
-        "phrase": "La viande est bonne, bien cuite comme demandé.\n",
+        "phrase": "La viande est bonne, bien cuite comme demandé.",
         "triplets": [
             [
                 "nourriture",
@@ -335,7 +470,7 @@
         ]
     },
     {
-        "phrase": "Les frites sont molles, dommage aussi, pour un resto qui sert des plats accompagnés de pommes de terre.\n",
+        "phrase": "Les frites sont molles, dommage aussi, pour un resto qui sert des plats accompagnés de pommes de terre.",
         "triplets": [
             [
                 "nourriture",
@@ -345,7 +480,7 @@
         ]
     },
     {
-        "phrase": "un bon petit resto qui sert d'excellentes pizzas ou d'autres petits plats pour ceux qui préfèrent débuter autre chose\n",
+        "phrase": "un bon petit resto qui sert d'excellentes pizzas ou d'autres petits plats pour ceux qui préfèrent débuter autre chose",
         "triplets": [
             [
                 "nourriture",
@@ -355,7 +490,7 @@
         ]
     },
     {
-        "phrase": "service tardif possible : pratique après un bon ciné\n",
+        "phrase": "service tardif possible : pratique après un bon ciné",
         "triplets": [
             [
                 "service",
@@ -370,7 +505,19 @@
         ]
     },
     {
-        "phrase": "La carte est banale, avec une option \"plats bourguignons\" classiques.\n",
+        "phrase": "Un patron qui pourrait être un cas d'école dans les écoles d'hôtellerie.",
+        "triplets": []
+    },
+    {
+        "phrase": "Je me suis permis de le remercier pour le service et de m'excuser de le déranger pendant son travail.",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais la dernière fois, c'était un peu moins bien : la pâte à pizza était difficile à couper, ne faudrait-il pas que le patron achète de nouveaux couteaux, car ceux d'IKEA laissent à désirer pour ce gendre de plats.",
+        "triplets": []
+    },
+    {
+        "phrase": "La carte est banale, avec une option \"plats bourguignons\" classiques.",
         "triplets": [
             [
                 "nourriture",
@@ -380,7 +527,7 @@
         ]
     },
     {
-        "phrase": "Carte des vins très limitée en choix aussi bien en quantité qu'en qualité.\n",
+        "phrase": "Carte des vins très limitée en choix aussi bien en quantité qu'en qualité.",
         "triplets": [
             [
                 "boisson",
@@ -390,7 +537,7 @@
         ]
     },
     {
-        "phrase": "Nous avons pris une andouillette sauce dijonnaise à la moutarde et son accompagnement de frites et une andouillette avec petits légumes et purée.\n",
+        "phrase": "Nous avons pris une andouillette sauce dijonnaise à la moutarde et son accompagnement de frites et une andouillette avec petits légumes et purée.",
         "triplets": [
             [
                 "nourriture",
@@ -405,7 +552,7 @@
         ]
     },
     {
-        "phrase": "L'andouillette qui n'était pas une 5A était excellente, les frites, légumes et purée également.\n",
+        "phrase": "L'andouillette qui n'était pas une 5A était excellente, les frites, légumes et purée également.",
         "triplets": [
             [
                 "nourriture",
@@ -415,7 +562,23 @@
         ]
     },
     {
-        "phrase": "Je vous passe les plats tièdes et sans saveur appuyée\n",
+        "phrase": "Rien à reprocher au service si ce n'est la hâte de fermer la boutique !",
+        "triplets": []
+    },
+    {
+        "phrase": "Sur le fond : j'y suis allé 2 fois dans les 3 derniers mois pour manger un hamburger et franchement le contenu de l'assiette n'est pas à la hauteur du prix et c'est véritablement sur ce point que se situe le problème.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les hamburgers sont vendus entre 12 et 16 euros",
+        "triplets": []
+    },
+    {
+        "phrase": "ce qui est beaucoup trop pour des préparations très industrielles : pain durci par la cuisson, pas de légumes dans le sandwich et frites qui ne sont pas faites maison.",
+        "triplets": []
+    },
+    {
+        "phrase": "Je vous passe les plats tièdes et sans saveur appuyée",
         "triplets": [
             [
                 "nourriture",
@@ -425,7 +588,11 @@
         ]
     },
     {
-        "phrase": "Ayant pu goûter à la crêpe montagnarde, celle-ci est copieuse et bien garni.\n",
+        "phrase": "Le café offert ne peux pas tout effacer",
+        "triplets": []
+    },
+    {
+        "phrase": "Ayant pu goûter à la crêpe montagnarde, celle-ci est copieuse et bien garni.",
         "triplets": [
             [
                 "nourriture",
@@ -435,7 +602,27 @@
         ]
     },
     {
-        "phrase": "De beaux verres auraient été appréciés pour boire un bon vin.\n",
+        "phrase": "Le cidre, pas qu'exceptionnel, est frais et s'accompagne bien.",
+        "triplets": []
+    },
+    {
+        "phrase": "Quand au prix, je ne les trouve pas excessif quand à la qualité des plats servi.",
+        "triplets": []
+    },
+    {
+        "phrase": "le service est nickel.",
+        "triplets": []
+    },
+    {
+        "phrase": "Côté repas nous avons dû réclamer deux fois pour avoir le vin que nous avions pris en apéritif.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le vin n'a pas été servi à la bonne température.",
+        "triplets": []
+    },
+    {
+        "phrase": "De beaux verres auraient été appréciés pour boire un bon vin.",
         "triplets": [
             [
                 "boisson",
@@ -445,7 +632,15 @@
         ]
     },
     {
-        "phrase": "En conclusion bien trop cher pour ce que nous avons mangé : manque d originalité et le service n est pas à la hauteur.\n",
+        "phrase": "Pour le plat le serveur nous avait dit que la viande était servie avec une sauce au foie gras, nous n avons pas retrouvé le goût du foie gras car en fait c'était une sauce au vin qui masquait complètement le foie gras.",
+        "triplets": []
+    },
+    {
+        "phrase": "Pour le dessert farandole de desserts : rien d'extraordinaire que des classiques avec beaucoup de crème au beurre.",
+        "triplets": []
+    },
+    {
+        "phrase": "En conclusion bien trop cher pour ce que nous avons mangé : manque d originalité et le service n est pas à la hauteur.",
         "triplets": [
             [
                 "service",
@@ -455,7 +650,7 @@
         ]
     },
     {
-        "phrase": "Le cadre est tout simplement incroyable / le menu unique a 36 euros vous fait découvrir quelques plats typiques corses....\n",
+        "phrase": "Le cadre est tout simplement incroyable / le menu unique a 36 euros vous fait découvrir quelques plats typiques corses....",
         "triplets": [
             [
                 "nourriture",
@@ -470,7 +665,11 @@
         ]
     },
     {
-        "phrase": "Pizza sèche, très peu d'ingrédients et un bord énooorme tout sec pour la Regina bianca.\n",
+        "phrase": "Et pour couronner le tout de sympathique serveurs a l accent prononcé avec toujours un brin d humour",
+        "triplets": []
+    },
+    {
+        "phrase": "Pizza sèche",
         "triplets": [
             [
                 "nourriture",
@@ -480,7 +679,11 @@
         ]
     },
     {
-        "phrase": "Le repas était correct pour une escale rapide,le patron très sympathique et le paysage magnifique.\n",
+        "phrase": ", très peu d'ingrédients et un bord énooorme tout sec pour la Regina bianca.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le repas était correct pour une escale rapide,le patron très sympathique et le paysage magnifique.",
         "triplets": [
             [
                 "service",
@@ -490,7 +693,23 @@
         ]
     },
     {
-        "phrase": "Un jeune serveur très sympa je le plaint !\n",
+        "phrase": "La complexité annoncée des plats, elle est ou ?",
+        "triplets": []
+    },
+    {
+        "phrase": "Il y peut y avoir des sauces \"sur etagere\" dans les plats cuisines",
+        "triplets": []
+    },
+    {
+        "phrase": "Bref, rien qui justifie 3 heures à table pour 2 plats pour 4 personnes, si ce n'est un bon moyen de se démarquer des autres restaus Viêt/thaï .",
+        "triplets": []
+    },
+    {
+        "phrase": "pour les patrons qui perdent du monde à cause de l'employé qui se prend pour un patron justement",
+        "triplets": []
+    },
+    {
+        "phrase": "Un jeune serveur très sympa je le plaint !",
         "triplets": [
             [
                 "service",
@@ -505,7 +724,23 @@
         ]
     },
     {
-        "phrase": "Peu de choix à la carte, mais c'est aussi comme ça qu'on a plus de chance de faire des bons plats!\n",
+        "phrase": "L'autre serveuse étant, pour sa part , très gauche dans le service.",
+        "triplets": []
+    },
+    {
+        "phrase": "Et pour parfaire le tout la musique très forte de l'espace lounge empêche toute conversation entre les convives ce qui est dommage car la cuisine est bonne dans son ensemble hormis les desserts qui nous ont été vendus comme desserts maison mais qui semblent plutôt sortir de chez Metro ou autres fournisseurs restauration!",
+        "triplets": []
+    },
+    {
+        "phrase": "Même les petits biscuits qui accompagnent le café sont faits maison.",
+        "triplets": []
+    },
+    {
+        "phrase": "avec une mise en appetit avec des rillettes et du saucisson",
+        "triplets": []
+    },
+    {
+        "phrase": "Peu de choix à la carte, mais c'est aussi comme ça qu'on a plus de chance de faire des bons plats!",
         "triplets": [
             [
                 "nourriture",
@@ -515,7 +750,19 @@
         ]
     },
     {
-        "phrase": "La tarte tatin divine\n",
+        "phrase": "Compter environ 20€ pour un oeuf cocotte (même pas cuit correctement), un plat comprenant environ 50g de poulet et 3 haricots verts et deux rondelles de pomme de terre et une salade de fruit...",
+        "triplets": []
+    },
+    {
+        "phrase": "Plats bien exécutés, les sauces sont également bonnes",
+        "triplets": []
+    },
+    {
+        "phrase": "Le veau était goûtu",
+        "triplets": []
+    },
+    {
+        "phrase": "La tarte tatin divine",
         "triplets": [
             [
                 "nourriture",
@@ -525,22 +772,41 @@
         ]
     },
     {
-        "phrase": "Le service est très attentionné ,la salle est petite mais très agréable\n",
+        "phrase": "Le service est très attentionné",
         "triplets": [
             [
                 "service",
                 "service",
                 "attentionné"
-            ],
-            [
-                "service",
-                "service",
-                "agréable"
             ]
         ]
     },
     {
-        "phrase": "Si le plat fut correct (saint jacques - risotto)...il ne fallait pas avoir trop faim...seulement trois saint jacques le tout à peine chaud.\n",
+        "phrase": "Par contre Le fondant au chocolat est très bon",
+        "triplets": []
+    },
+    {
+        "phrase": "Des plats correctement servis, un pavé de turbot excellent et des prix corrects pour le quartier.",
+        "triplets": []
+    },
+    {
+        "phrase": "Et pour enrober le tout, un service avec le sourire du début à la fin :) !",
+        "triplets": []
+    },
+    {
+        "phrase": "L'entrecôte qui dans le menu était censée être 300 g c'était une portion du gendre cantine de l'école.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les pommes sautés étaient des simples frites.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un excellent restau, le magret au miel est divin, le soufflé parfait, le personnel très agréable, le service rapide, l'ambiance et la déco géniales, un bon moment en famille !",
+        "triplets": []
+    },
+    {
+        "phrase": "Si le plat fut correct (saint jacques - risotto)...il ne fallait pas avoir trop faim...seulement trois saint jacques le tout à peine chaud.",
         "triplets": [
             [
                 "nourriture",
@@ -550,7 +816,7 @@
         ]
     },
     {
-        "phrase": "Pour les autres plat, aucun légume vert n'est proposé en accompagnement il faut se contenter de frites, purée de pommes de terre risotto ou les légumes du pot au feu....Le service inexistant, à la question qu'y a-t-il dans le café gourmand la réponse fut ça dépend...\n",
+        "phrase": "Pour les autres plat, aucun légume vert n'est proposé en accompagnement il faut se contenter de frites, purée de pommes de terre risotto ou les légumes du pot au feu....",
         "triplets": [
             [
                 "nourriture",
@@ -560,7 +826,21 @@
         ]
     },
     {
-        "phrase": "Et à chaque fois, pas de déception : carte variée, produits frais et de qualité, plats savoureux, portions copieuses et service très sympathique.\n",
+        "phrase": "Le service inexistant, à la question qu'y a-t-il dans le café gourmand la réponse fut ça dépend...",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "inexistant"
+            ]
+        ]
+    },
+    {
+        "phrase": "...Et la petite touche qui va bien nous sommes ressortis imprégnés d'une odeur de friture...",
+        "triplets": []
+    },
+    {
+        "phrase": "Et à chaque fois, pas de déception : carte variée, produits frais et de qualité, plats savoureux, portions copieuses et service très sympathique.",
         "triplets": [
             [
                 "nourriture",
@@ -570,7 +850,7 @@
         ]
     },
     {
-        "phrase": "Les plats sont goûteux et dans de bonnes quantités.\n",
+        "phrase": "Les plats sont goûteux et dans de bonnes quantités.",
         "triplets": [
             [
                 "nourriture",
@@ -580,7 +860,15 @@
         ]
     },
     {
-        "phrase": "L'assiette de fromage, s'il vous reste un peu de place, est généreuse et excellente.\n",
+        "phrase": "Il y en a pour toutes les envies (viandes, poissons).",
+        "triplets": []
+    },
+    {
+        "phrase": "Je conseille fortement la cassolette de moules ou le boudin (s'il revient à la carte), mais dans l'ensemble, tout est bon.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'assiette de fromage, s'il vous reste un peu de place, est généreuse et excellente.",
         "triplets": [
             [
                 "nourriture",
@@ -590,7 +878,15 @@
         ]
     },
     {
-        "phrase": "Service tres long et glacial.\n",
+        "phrase": "Petit hic: l'assiette de charcuterie proposée à l'apéritif pour deux personnes n'était vraiment pas copieuse, même pour deux personnes.",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais pour le reste, cuisine variée, bonne carte de vins, nous reviendrons!",
+        "triplets": []
+    },
+    {
+        "phrase": "Service tres long et glacial",
         "triplets": [
             [
                 "service",
@@ -600,7 +896,11 @@
         ]
     },
     {
-        "phrase": "Présentation des plats médiocre.\n",
+        "phrase": "Service d'une lenteur incroyable.",
+        "triplets": []
+    },
+    {
+        "phrase": "Présentation des plats médiocre.",
         "triplets": [
             [
                 "nourriture",
@@ -610,7 +910,11 @@
         ]
     },
     {
-        "phrase": "Nous etions une tablée de 15 un vendredi soir, le service était exécrable, plats froids, pas aimable, restaurant tellement sombre qu on ne voit pas ce qu on y mange (je comprend pourquoi maintenant...)\n",
+        "phrase": "- surtout ne jamais prendre le bœuf d'un derrier goût dégoûtant dans une casserole de puré de pommes de terre comme une soupe amère.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous etions une tablée de 15 un vendredi soir, le service était exécrable, plats froids, pas aimable, restaurant tellement sombre qu on ne voit pas ce qu on y mange (je comprend pourquoi maintenant...)",
         "triplets": [
             [
                 "service",
@@ -620,7 +924,7 @@
         ]
     },
     {
-        "phrase": "Le serveur n hésite pas a accuser ses clients de ne pas payer (alors que c est son travail de calculer correctement ..) le manager est agressif et empoigne ses clients sous prétexte qu ils ont pas payer ....\n",
+        "phrase": "Le serveur n hésite pas a accuser ses clients de ne pas payer (alors que c est son travail de calculer correctement ..) le manager est agressif et empoigne ses clients sous prétexte qu ils ont pas payer ....",
         "triplets": [
             [
                 "service",
@@ -630,7 +934,7 @@
         ]
     },
     {
-        "phrase": "Cuisine réchauffée au micro ondes, service lent, mais surtout prix tres excessif compte tenu de la qualité assez moyenne.\n",
+        "phrase": "Cuisine réchauffée au micro ondes, service lent,",
         "triplets": [
             [
                 "service",
@@ -640,7 +944,7 @@
         ]
     },
     {
-        "phrase": "Nous avons eu le tort de nous rabattre sur un burger et un fish and chips, erreur fatale: burger moyen, frites molles et grasses, quant au fish and chips impression d'ingurgiter uniquement de la pâte à friture baignée de graisse.\n",
+        "phrase": "Nous avons eu le tort de nous rabattre sur un burger et un fish and chips, erreur fatale: burger moyen, frites molles et grasses, quant au fish and chips impression d'ingurgiter uniquement de la pâte à friture baignée de graisse.",
         "triplets": [
             [
                 "nourriture",
@@ -650,7 +954,7 @@
         ]
     },
     {
-        "phrase": "La tarte tropézienne bien que délicieuse, n'a pas été suffisante pour rattraper ce déjeuner raté.\n",
+        "phrase": "La tarte tropézienne bien que délicieuse",
         "triplets": [
             [
                 "nourriture",
@@ -660,7 +964,11 @@
         ]
     },
     {
-        "phrase": "Les toilettes sont immondes et le service est désinvolte au possible.\n",
+        "phrase": "Sous prétexte d'inventaire, il manquait la moitié des plats, entrées et vins.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les toilettes sont immondes et le service est désinvolte au possible.",
         "triplets": [
             [
                 "service",
@@ -670,7 +978,7 @@
         ]
     },
     {
-        "phrase": "Les plats étaient tout de même bons mais maigrichons.\n",
+        "phrase": "Les plats étaient tout de même bons mais maigrichons.",
         "triplets": [
             [
                 "nourriture",
@@ -685,7 +993,7 @@
         ]
     },
     {
-        "phrase": "Poulet très sec et frite froide pour 15,50 € + saumon grillé très très sec et riz dégeu pour 16,50 €\n",
+        "phrase": "Poulet très sec et frite froide pour 15,50 € + saumon grillé très très sec et riz dégeu pour 16,50 €",
         "triplets": [
             [
                 "nourriture",
@@ -700,7 +1008,15 @@
         ]
     },
     {
-        "phrase": "Des serveurs antipathiques au possible.\n",
+        "phrase": "A savoir aussi les quantités ne sont pas les mêmes entre un menu et le plat à la carte.",
+        "triplets": []
+    },
+    {
+        "phrase": "pour deux verres de vin blanc - à peine passable",
+        "triplets": []
+    },
+    {
+        "phrase": "Des serveurs antipathiques au possible.",
         "triplets": [
             [
                 "service",
@@ -710,7 +1026,7 @@
         ]
     },
     {
-        "phrase": "Décoration vieillotte , des menus sales et gras , un service inexistant , une bière chaude qui n'a même pas été changee , des viandes trop cuites ( accompagnées de poires !!) et limités avariées ...\n",
+        "phrase": "Décoration vieillotte , des menus sales et gras , un service inexistant",
         "triplets": [
             [
                 "service",
@@ -720,7 +1036,17 @@
         ]
     },
     {
-        "phrase": "Accueil très très sympa !!! Nous avons très bien mangé avec des plats traditionnels comme à la maison, la qualité mais aussi la quantité sont en rdv !!!\n",
+        "phrase": ", une bière chaude qui n'a même pas été changee , des viandes trop cuites ( accompagnées de poires !!) et limités avariées ...",
+        "triplets": [
+            [
+                "boisson",
+                "bière",
+                "chaude"
+            ]
+        ]
+    },
+    {
+        "phrase": "Nous avons très bien mangé avec des plats traditionnels comme à la maison, la qualité mais aussi la quantité sont en rdv !!",
         "triplets": [
             [
                 "nourriture",
@@ -730,7 +1056,7 @@
         ]
     },
     {
-        "phrase": "Le veau était tellement vieux .....qu'on aurait dit du mauvais bœuf saignant...\n",
+        "phrase": "Le veau était tellement vieux .....qu'on aurait dit du mauvais bœuf saignant...",
         "triplets": [
             [
                 "nourriture",
@@ -740,7 +1066,15 @@
         ]
     },
     {
-        "phrase": "et ils osent appeler cela Escalope Saltimbocca ...\n",
+        "phrase": "Le jambon était racorni",
+        "triplets": []
+    },
+    {
+        "phrase": "La crème figée et sans gout",
+        "triplets": []
+    },
+    {
+        "phrase": "et ils osent appeler cela Escalope Saltimbocca ...",
         "triplets": [
             [
                 "nourriture",
@@ -750,7 +1084,15 @@
         ]
     },
     {
-        "phrase": "Serveur pas du tout sympa avec un humour très noir et ni merci ou rien en partant.\n",
+        "phrase": "Quant au service je préfère ne pas en parler",
+        "triplets": []
+    },
+    {
+        "phrase": "Dans le quartier pour le prix d'un plat vous aurez un repas complet agrémenté d'un sourire",
+        "triplets": []
+    },
+    {
+        "phrase": "Serveur pas du tout sympa avec un humour très noir et ni merci ou rien en partant.",
         "triplets": [
             [
                 "service",
@@ -760,7 +1102,7 @@
         ]
     },
     {
-        "phrase": "Le service est beaucoup trop rapide pour que ce soit fait en direct.\n",
+        "phrase": "Le service est beaucoup trop rapide pour que ce soit fait en direct.",
         "triplets": [
             [
                 "service",
@@ -770,7 +1112,7 @@
         ]
     },
     {
-        "phrase": "Le saumon n'était pas très frais et la dinde pas assez cuite.\n",
+        "phrase": "Le saumon n'était pas très frais et la dinde pas assez cuite.",
         "triplets": [
             [
                 "nourriture",
@@ -780,7 +1122,7 @@
         ]
     },
     {
-        "phrase": "Les desserts maisons apparemment sont corrects.\n",
+        "phrase": "Les desserts maisons apparemment sont corrects.",
         "triplets": [
             [
                 "nourriture",
@@ -790,7 +1132,11 @@
         ]
     },
     {
-        "phrase": "Le service est efficace et la cuisine traditionnelle est très bonne.\n",
+        "phrase": "plat+ dessert.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service est efficace et la cuisine traditionnelle",
         "triplets": [
             [
                 "service",
@@ -800,7 +1146,31 @@
         ]
     },
     {
-        "phrase": "Les plats sont décevants, trop gras avec un goût pas agréable.\n",
+        "phrase": "On choisit notre menu, le carpaccio vient de métro c'est certain et les frites ne sont pas fraîches.",
+        "triplets": []
+    },
+    {
+        "phrase": "Sans parler de la mousse au chocolat qui n'a rien d'une mousse",
+        "triplets": []
+    },
+    {
+        "phrase": "Carafe d'eau demandé deux fois avant de l'avoir.",
+        "triplets": []
+    },
+    {
+        "phrase": "Petit plus : Un serveur nous a offert un apéritif.",
+        "triplets": []
+    },
+    {
+        "phrase": "La nourriture y est plus que médiocre ( poisson brûlé, plat de moules sans saveur, desserts insipides ) et de plus un service inexistant plus une addition plus que salée.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service dans ce bistro plus que typique parisien est agréablement bon.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats sont décevants, trop gras avec un goût pas agréable.",
         "triplets": [
             [
                 "nourriture",
@@ -810,7 +1180,7 @@
         ]
     },
     {
-        "phrase": "Petit restaurant typiquement parisien, mais les plats sont délicieux !\n",
+        "phrase": "Petit restaurant typiquement parisien, mais les plats sont délicieux !",
         "triplets": [
             [
                 "nourriture",
@@ -820,7 +1190,7 @@
         ]
     },
     {
-        "phrase": "Entrée au chèvre chaud, suivi d'un magret de canard miel/citron accompagné de pommes sautées, un vrai délice !\n",
+        "phrase": "Entrée au chèvre chaud, suivi d'un magret de canard miel/citron accompagné de pommes sautées, un vrai délice !",
         "triplets": [
             [
                 "nourriture",
@@ -830,7 +1200,15 @@
         ]
     },
     {
-        "phrase": "Le choix est limité (idéal pour les petits appétits )\n",
+        "phrase": "Choix de dessert quasi inexistant.",
+        "triplets": []
+    },
+    {
+        "phrase": "L endroit est sympa mais le service du personnel n était pas au rendez vous",
+        "triplets": []
+    },
+    {
+        "phrase": "Le choix est limité (idéal pour les petits appétits )",
         "triplets": [
             [
                 "nourriture",
@@ -840,7 +1218,7 @@
         ]
     },
     {
-        "phrase": "Le seul point positif est le chocolat chaud\n",
+        "phrase": "Le seul point positif est le chocolat chaud",
         "triplets": [
             [
                 "nourriture",
@@ -850,7 +1228,7 @@
         ]
     },
     {
-        "phrase": "Jolie déco, bonne musique, nourriture d'un rapport qualité/prix correcte...un établissement qui serait des plus agréables si le service n'était pas détestable et tout sauf professionnel :\n",
+        "phrase": "Jolie déco, bonne musique, nourriture d'un rapport qualité/prix correcte...un établissement qui serait des plus agréables si le service n'était pas détestable et tout sauf professionnel :",
         "triplets": [
             [
                 "service",
@@ -860,7 +1238,31 @@
         ]
     },
     {
-        "phrase": "tous les ingrédients sont réunis pour passer une très bonne soirée !\n",
+        "phrase": "- Des serveuses/serveurs sous pression (y compris en tout début de service lorsque l'endroit est quasi-vide) et d'une impolitesse rare",
+        "triplets": []
+    },
+    {
+        "phrase": "En bref, la qualité du service est un comble pour un établissement mettant en avant ses influences new-yorkaise!",
+        "triplets": []
+    },
+    {
+        "phrase": "nous avons particulièrement apprécié l'échine de cochon confite avec ses gnocchis (les meilleures que j'ai été amené à goûter) et ses girolles.",
+        "triplets": []
+    },
+    {
+        "phrase": "En dessert, en plus de l'incontournable tarte au citron servie autrement, nous nous sommes également régalés avec la brioche perdue...Superbe!",
+        "triplets": []
+    },
+    {
+        "phrase": "Entrée, plat",
+        "triplets": []
+    },
+    {
+        "phrase": ", dessert à 30€ le soir, verre de vin à 8€.",
+        "triplets": []
+    },
+    {
+        "phrase": "tous les ingrédients sont réunis pour passer une très bonne soirée !",
         "triplets": [
             [
                 "nourriture",
@@ -870,7 +1272,7 @@
         ]
     },
     {
-        "phrase": "La carte annonce des plats frais et savoureux et nous avons malheureusement eu des mets quelconques, voir très passables à des tarifs dépassant la prestation.\n",
+        "phrase": "La carte annonce des plats frais et savoureux et nous avons malheureusement eu des mets quelconques, voir très passables à des tarifs dépassant la prestation.",
         "triplets": [
             [
                 "nourriture",
@@ -885,7 +1287,7 @@
         ]
     },
     {
-        "phrase": "Le service est médiocre , la nourriture mauvaise et la note est trés haute .\n",
+        "phrase": "Le service est médiocre , la nourriture mauvaise et la note est trés haute .",
         "triplets": [
             [
                 "service",
@@ -895,7 +1297,7 @@
         ]
     },
     {
-        "phrase": "Un petit bistrot de quartier sympa, on y mange bien et le service est agréable.\n",
+        "phrase": "Un petit bistrot de quartier sympa, on y mange bien et le service est agréable.",
         "triplets": [
             [
                 "service",
@@ -905,7 +1307,19 @@
         ]
     },
     {
-        "phrase": "La fraîcheur douteuse.Desserts industriels.\n",
+        "phrase": "Plats de bistrot classiques, pour des prix \"parisiens\" (15-20 euros).",
+        "triplets": []
+    },
+    {
+        "phrase": "Service quasiment inexistant.",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais où vont-ils donc chercher leurs serveuses et serveurs.",
+        "triplets": []
+    },
+    {
+        "phrase": "Desserts industriels.",
         "triplets": [
             [
                 "nourriture",
@@ -915,7 +1329,7 @@
         ]
     },
     {
-        "phrase": "Petite brasserie, carte sympa et bien achalandée, les serveurs ne sont pas très sympathiques, rendement avant tout.\n",
+        "phrase": "Petite brasserie, carte sympa et bien achalandée, les serveurs ne sont pas très sympathiques, rendement avant tout.",
         "triplets": [
             [
                 "service",
@@ -925,7 +1339,15 @@
         ]
     },
     {
-        "phrase": "Le spaguetti carbonara qui baigne dans la crème complètement liquide, l'accueil pas très agréable, je n'y retournerais pas.\n",
+        "phrase": "Le plat du jour est correctement servi, le gratin sent l'ail a 3 mètres.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un verre de vin servi presque gelé.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le spaguetti carbonara qui baigne dans la crème complètement liquide, l'accueil pas très agréable, je n'y retournerais pas.",
         "triplets": [
             [
                 "nourriture",
@@ -935,7 +1357,11 @@
         ]
     },
     {
-        "phrase": "Dans ce quartier très touristique, ce petit restaurant sans prétention propose des plats peu onéreux et même une formule menu très accessible.\n",
+        "phrase": "restaurant où certes les serveurs ont gardé le style des grandes brasseries mais le service est un peu direct et la cuisine n'est véritablement pas à la hauteur de l'addition car sans se déplacer bien loin on trouve d'autres tables qui eux parfois à l'écart des grandes tours restent raisonnables mais respectent la clientèle",
+        "triplets": []
+    },
+    {
+        "phrase": "Dans ce quartier très touristique, ce petit restaurant sans prétention propose des plats peu onéreux et même une formule",
         "triplets": [
             [
                 "nourriture",
@@ -945,7 +1371,15 @@
         ]
     },
     {
-        "phrase": "Serveurs pas aimables du tout, aucune classe.\n",
+        "phrase": "Énorme attente pour prendre la commande et quand le serveur vient enfin, il prend la commande des derniers arrivés.",
+        "triplets": []
+    },
+    {
+        "phrase": "Longue attente encore pour avoir ses boissons.",
+        "triplets": []
+    },
+    {
+        "phrase": "Serveurs pas aimables du tout, aucune classe.",
         "triplets": [
             [
                 "service",
@@ -955,7 +1389,19 @@
         ]
     },
     {
-        "phrase": "Ils nous ont donné le mauvais plat, ensuite quand ils l'ont changé, le plat était froid.\n",
+        "phrase": "Vu la lenteur pour qu'un serveur vienne jusqu'à nous, nous nous sommes dirigés vers les caisses pour payer.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un des serveurs a été rapide cette fois ci en venant vers nous car il avait l'air de penser qu'on allait partir sans payer.",
+        "triplets": []
+    },
+    {
+        "phrase": "Vraiment le service aura été horrible du début jusqu'à la fin et ceux pour la plupart des clients qui étaient installés autour de nous.",
+        "triplets": []
+    },
+    {
+        "phrase": "Ils nous ont donné le mauvais plat, ensuite quand ils l'ont changé, le plat était froid.",
         "triplets": [
             [
                 "nourriture",
@@ -965,7 +1411,15 @@
         ]
     },
     {
-        "phrase": "Jy retournerai a coup sur pour decouvrir les autres plats de la carte.\n",
+        "phrase": "On a commandé un moelleux au chocolat, un plat généralement difficile a rater, mais il était pas moelleux et il avait pas de goût.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service de tres bonne qualité, restaurant agreable et cuisine delicieuse !",
+        "triplets": []
+    },
+    {
+        "phrase": "retournerai a coup sur pour decouvrir les autres plats de la carte.",
         "triplets": [
             [
                 "nourriture",
@@ -975,7 +1429,7 @@
         ]
     },
     {
-        "phrase": "Très bonne carte avec des plats simples mais recherchés.\n",
+        "phrase": "avec des plats simples mais recherchés",
         "triplets": [
             [
                 "nourriture",
@@ -985,7 +1439,7 @@
         ]
     },
     {
-        "phrase": "Les serveurs sont vraiment très sympa et accueillant.\n",
+        "phrase": "Les serveurs sont vraiment très sympa et accueillant.",
         "triplets": [
             [
                 "service",
@@ -995,7 +1449,11 @@
         ]
     },
     {
-        "phrase": "Les galettes sont savoureuses et à prix très raisonnables.\n",
+        "phrase": "Un délice dans ce quartier ou beaucoup de restaurants sont des pièges à touristes.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les galettes sont savoureuses et à prix très raisonnables.",
         "triplets": [
             [
                 "nourriture",
@@ -1005,7 +1463,7 @@
         ]
     },
     {
-        "phrase": "Service sympathique.\n",
+        "phrase": "Service sympathique.",
         "triplets": [
             [
                 "service",
@@ -1015,7 +1473,7 @@
         ]
     },
     {
-        "phrase": "Service très sympathique et efficace, nous avons été servi en moins de 10min un vendredi soir à 20h.\n",
+        "phrase": "Service très sympathique et efficace, nous avons été servi en moins de 10min un vendredi soir à 20h.",
         "triplets": [
             [
                 "service",
@@ -1030,22 +1488,17 @@
         ]
     },
     {
-        "phrase": "Qualité des plats très correcte, ma pièce du boucher était très bonne et tendre, et ma panna cotta délicieuse.\n",
+        "phrase": "Qualité des plats très correcte",
         "triplets": [
             [
                 "nourriture",
                 "plats",
                 "correcte"
-            ],
-            [
-                "nourriture",
-                "plats",
-                "tendre"
             ]
         ]
     },
     {
-        "phrase": "Des produits simples mais bons (oeufs au plat, tomates rôties et bacon), puis cheesecake maison réussi.\n",
+        "phrase": "Des produits simples mais bons (oeufs au plat, tomates rôties et bacon), puis cheesecake maison réussi.",
         "triplets": [
             [
                 "nourriture",
@@ -1055,7 +1508,7 @@
         ]
     },
     {
-        "phrase": "Le bémol fut l'attente et les serveurs sympathiques mais un peu dépassés\n",
+        "phrase": "Le bémol fut l'attente et les serveurs sympathiques mais un peu dépassés",
         "triplets": [
             [
                 "service",
@@ -1065,7 +1518,7 @@
         ]
     },
     {
-        "phrase": "Mauvaise cuisson des aliments.\n",
+        "phrase": "Mauvaise cuisson des aliments.",
         "triplets": [
             [
                 "nourriture",
@@ -1075,7 +1528,7 @@
         ]
     },
     {
-        "phrase": "Toutefois le service est très agréable\n",
+        "phrase": "Toutefois le service est très agréable",
         "triplets": [
             [
                 "service",
@@ -1085,7 +1538,27 @@
         ]
     },
     {
-        "phrase": "Mais surtout des produits frais, enfin de vraies frites qui ne baignent pas dans l'huile, de la salade fraiche et un bon petit dessert!!\n",
+        "phrase": "Le service était au TOP, l'accueil génial, notre plat excellent!",
+        "triplets": []
+    },
+    {
+        "phrase": "Le bémol significatif comme d autres l ont confirmé en amont dans les commentaires : l accueil et le service....PAS UN SOURIRE.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous y sommes allés avant un spectacle, les serveurs sont débordés et désagréables, un vrai cliché parisien!",
+        "triplets": []
+    },
+    {
+        "phrase": "Un serveur qui avait servi deux fois la commande à une table voisine a juste crié sur ses clientes.",
+        "triplets": []
+    },
+    {
+        "phrase": "Ensuite, remontant dans la salle, un serveur énervé de nous entendre dire \"il n'y a pas de serviettes pour s'essuyer les mains en bas\" fait un croche-patte à mon mari, qui manque de s'étaler de tout son long par terre.",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais surtout des produits frais, enfin de vraies frites qui ne baignent pas dans l'huile, de la salade fraiche et un bon petit dessert!",
         "triplets": [
             [
                 "nourriture",
@@ -1100,7 +1573,35 @@
         ]
     },
     {
-        "phrase": "Bref les plats préparés ne sont pas bon et ils se moquent des clients.\n",
+        "phrase": "Perso j'avais pris le tournedos à 16 euros.",
+        "triplets": []
+    },
+    {
+        "phrase": "Sinon c'est simple tout ce qui n'est pas préparer est bon, le reste sans saveur.",
+        "triplets": []
+    },
+    {
+        "phrase": "Cocktail trop sucré vs bon vin.",
+        "triplets": []
+    },
+    {
+        "phrase": "Plateau de fromage charcuterie très bon vs Bruchetas et pâte sans goût.",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais surtout le pire nos plats sont arrivés avant l'entrée",
+        "triplets": []
+    },
+    {
+        "phrase": "Nos entrée sont donc arrivées puis nos plats après une très longue attente alors que c'était les assiettes arrivées trop tôt qu'ils ont réchauffées...",
+        "triplets": []
+    },
+    {
+        "phrase": "Un pain qui sut de l'eau = micro onde.",
+        "triplets": []
+    },
+    {
+        "phrase": "Bref les plats préparés ne sont pas bon et ils se moquent des clients.",
         "triplets": [
             [
                 "nourriture",
@@ -1110,7 +1611,7 @@
         ]
     },
     {
-        "phrase": "Les vins y sont très chers.\n",
+        "phrase": "Les vins y sont très chers.",
         "triplets": [
             [
                 "boisson",
@@ -1120,7 +1621,7 @@
         ]
     },
     {
-        "phrase": "Service lamentable, viandes médiocres et note très salée!\n",
+        "phrase": "Service lamentable, viandes médiocres et note très salée!",
         "triplets": [
             [
                 "service",
@@ -1130,7 +1631,19 @@
         ]
     },
     {
-        "phrase": "Il comprend 8 plats surprises et une amuse-bouche.\n",
+        "phrase": "Si vous voulez vous régaler de la mise en bouche au dessert n'hésitez pas à pousser la porte et de demander une table à l'étage.",
+        "triplets": []
+    },
+    {
+        "phrase": "Pour les connaisseurs en dessert il faut surtout prendre le mille fleuilles au fruit rouge.",
+        "triplets": []
+    },
+    {
+        "phrase": "Vous ne pouvez pas lècher l'assiette car cela ne se fait pas, mais vous avez beaucoup de regret que votre dessert soit terminer.",
+        "triplets": []
+    },
+    {
+        "phrase": "Il comprend 8 plats surprises et une amuse-bouche.",
         "triplets": [
             [
                 "nourriture",
@@ -1140,7 +1653,7 @@
         ]
     },
     {
-        "phrase": "Le service est rapide.\n",
+        "phrase": "Le service est rapide.",
         "triplets": [
             [
                 "service",
@@ -1150,7 +1663,7 @@
         ]
     },
     {
-        "phrase": "Les petites quantités des entrées sont frustrantes, car les saveurs sont excellentes mais elles sont bien dosées pour arriver jusqu'au dessert.\n",
+        "phrase": "Les petites quantités des entrées sont frustrantes, car les saveurs sont excellentes mais elles sont bien dosées pour arriver jusqu'au dessert.",
         "triplets": [
             [
                 "nourriture",
@@ -1170,7 +1683,7 @@
         ]
     },
     {
-        "phrase": "Une bonne cuisine Française dans ce restaurant, un lieu très chaleureux, un bon service que demander de plus?\n",
+        "phrase": "dans ce restaurant, un lieu très chaleureux, un bon service que demander de plus?",
         "triplets": [
             [
                 "service",
@@ -1180,7 +1693,7 @@
         ]
     },
     {
-        "phrase": "Les plats sont corrects tout comme le service et l'ambiance.\n",
+        "phrase": "Les plats sont corrects tout comme le service et l'ambiance.",
         "triplets": [
             [
                 "nourriture",
@@ -1190,7 +1703,7 @@
         ]
     },
     {
-        "phrase": "Choix de plats très classique, et qualité des plats médiocre.\n",
+        "phrase": "Choix de plats très classique, et qualité des plats médiocre.",
         "triplets": [
             [
                 "nourriture",
@@ -1200,7 +1713,7 @@
         ]
     },
     {
-        "phrase": "Service très perfectible (lent, et mal organisé).\n",
+        "phrase": "Service très perfectible (lent, et mal organisé)",
         "triplets": [
             [
                 "service",
@@ -1210,7 +1723,7 @@
         ]
     },
     {
-        "phrase": "Le service n'est pas très agréable mais est rapide !\n",
+        "phrase": "Le service n'est pas très agréable mais est rapide !",
         "triplets": [
             [
                 "service",
@@ -1225,7 +1738,7 @@
         ]
     },
     {
-        "phrase": "La pizza capricioza était bonne mais pas exceptionnel.\n",
+        "phrase": "La pizza capricioza était bonne mais pas exceptionnel.",
         "triplets": [
             [
                 "nourriture",
@@ -1245,7 +1758,15 @@
         ]
     },
     {
-        "phrase": "Comment peut-on dire cuisine maison avec ces asperges en boite ,son boeuf bourguignon rempli de bas morceaux .....ces escargots decongeles etc ...cuisine française vraiment?\n",
+        "phrase": "Pour la salade, mon ami avait pris une salade, le prix était un peu élevé pour une salade verte et 2 tranches de jambon sous vide.",
+        "triplets": []
+    },
+    {
+        "phrase": "Par contre les plats : attention !",
+        "triplets": []
+    },
+    {
+        "phrase": "Comment peut-on dire cuisine maison avec ces asperges en boite ,son boeuf bourguignon rempli de bas morceaux .....ces escargots decongeles etc ...cuisine française vraiment?",
         "triplets": [
             [
                 "nourriture",
@@ -1255,7 +1776,15 @@
         ]
     },
     {
-        "phrase": "Leur couscous est vraiment excellent.\n",
+        "phrase": "C'était pas mal mais malgré leur originalité et leur belle présentation, j'ai été un peu déçu par les plats : artichauts en boîte (les boîtes sont en bas de l'escalier...), viande un peu trop cuite, vins chers.",
+        "triplets": []
+    },
+    {
+        "phrase": "Ceci dit, la bonne humeur de la serveuse et la présentation des plats rattrapent un peu cet avis mitigé.",
+        "triplets": []
+    },
+    {
+        "phrase": "Leur couscous est vraiment excellent.",
         "triplets": [
             [
                 "nourriture",
@@ -1265,7 +1794,19 @@
         ]
     },
     {
-        "phrase": "Pour ne rien gâcher, le cadre est agréable et le service attentionné.\n",
+        "phrase": "Les boulettes sont délicieuses, les brochettes d'agneau également.",
+        "triplets": []
+    },
+    {
+        "phrase": "Deux sortes de mélanges de légumes sont proposées en accompagnement.",
+        "triplets": []
+    },
+    {
+        "phrase": "La suggestion du chef change régulièrement et la dernière en date, couscous méchoui est particulièrement bonne.",
+        "triplets": []
+    },
+    {
+        "phrase": "Pour ne rien gâcher, le cadre est agréable et le service attentionné.",
         "triplets": [
             [
                 "service",
@@ -1275,7 +1816,11 @@
         ]
     },
     {
-        "phrase": "Service agréable qui plus est.\n",
+        "phrase": "Les tapas sont excellents...La charcuterie est de qualité aussi.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service agréable qui plus est.",
         "triplets": [
             [
                 "service",
@@ -1285,7 +1830,7 @@
         ]
     },
     {
-        "phrase": "Un simple café de quartier qui s'improvise restaurateur.\n",
+        "phrase": "Un simple café de quartier qui s'improvise restaurateur.",
         "triplets": [
             [
                 "boisson",
@@ -1295,7 +1840,7 @@
         ]
     },
     {
-        "phrase": "Des salades insipides et des plats réchauffés (mal).\n",
+        "phrase": "Des salades insipides et des plats réchauffés (mal)",
         "triplets": [
             [
                 "nourriture",
@@ -1305,7 +1850,7 @@
         ]
     },
     {
-        "phrase": "Carte des vins inexistante.\n",
+        "phrase": "Carte des vins inexistante.",
         "triplets": [
             [
                 "boisson",
@@ -1315,7 +1860,7 @@
         ]
     },
     {
-        "phrase": "Desserts industriels.\n",
+        "phrase": "Desserts industriels.",
         "triplets": [
             [
                 "nourriture",
@@ -1325,7 +1870,27 @@
         ]
     },
     {
-        "phrase": "Le rosé était tiède.\n",
+        "phrase": "On a l'impression que tout est improvisé, qu'il n'y a pas de compétence ni au niveau accueil, ni au niveau service, ni au niveau cuisine (plats surgelés).",
+        "triplets": []
+    },
+    {
+        "phrase": "la pire expérience culinaire de Paris, avec une addition astronomique : ravioles de homard à 20 euros ( les ravioles devaient avoir au moins 3 jours) puis dos de cabillaud pas cuit sur veilles pommes de terre, assorti de roquette pas fraiche à 47 euros.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous n'avons pas pris de dessert.",
+        "triplets": []
+    },
+    {
+        "phrase": "On avait l'impression de la déranger en demandant de la mayonnaise ou de la moutarde.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le pavé de rumsteack commandé à point était trop cuit, on a trouvé un cheveu dans un hamburger ce qui n'a pas semblé les choquer.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le rosé était tiède.",
         "triplets": [
             [
                 "boisson",
@@ -1335,7 +1900,37 @@
         ]
     },
     {
-        "phrase": "Les plats, bien présentés, colorés et ragoutants, étaient copieux et savoureux.\n",
+        "phrase": "Burger hyper sec, mal cuit, frites sans goût à part celui de l'huile, bière chaude...",
+        "triplets": []
+    },
+    {
+        "phrase": "service assez sympathique et qui semblait presque plus navré",
+        "triplets": [
+            [
+                "service",
+                "service",
+                "sympathique"
+            ]
+        ]
+    },
+    {
+        "phrase": "J'oubliais : si vous trouvez votre cheeseburger à 14,50€ trop sec, on vous signale que vous auriez pu rajouter une feuille de salade ou un cornichon... facturés 0,50€ !",
+        "triplets": []
+    },
+    {
+        "phrase": "Un croque monsieur sans frite avec de la salade en sachet, évidement sans saveur...",
+        "triplets": []
+    },
+    {
+        "phrase": "On trouve un chewing-gum collé au fond de notre verre d'eau, la serveuse ne s'excuse pas et met la faute sur le lave-vaisselle...",
+        "triplets": []
+    },
+    {
+        "phrase": "on nous propose même pas un geste commercial il faut le demander au manager qui ne peut que nous offrir un café (mais on bois pas de café...).",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats, bien présentés, colorés et ragoutants, étaient copieux et savoureux.",
         "triplets": [
             [
                 "nourriture",
@@ -1345,7 +1940,7 @@
         ]
     },
     {
-        "phrase": "Desserts originaux et légers.\n",
+        "phrase": "Desserts originaux et légers.",
         "triplets": [
             [
                 "nourriture",
@@ -1360,7 +1955,11 @@
         ]
     },
     {
-        "phrase": "Un grand remerciement pour cette cuisine riche moderne et pleine de saveur, merci également à l'accueil au service, la gentillesse et le professionnalisme du personnel merci et merci encore\n",
+        "phrase": "Nous n'avons pas pris de vin, je n'ai donc pas d'avis sur le sujet.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un grand remerciement pour cette cuisine riche moderne et pleine de saveur, merci également à l'accueil au service, la gentillesse et le professionnalisme du personnel merci et merci encore",
         "triplets": [
             [
                 "nourriture",
@@ -1370,7 +1969,11 @@
         ]
     },
     {
-        "phrase": "Service correct et rapide il ne manque pas grand chose.\n",
+        "phrase": "La choucroute, le produit phare, est acide et se mange sans réel plaisir....c'est dommage avec un tel potentiel de ne pas faire mieux.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service correct et rapide",
         "triplets": [
             [
                 "service",
@@ -1380,7 +1983,7 @@
         ]
     },
     {
-        "phrase": "On a trouvé tout très bon mais l accueil pas très sympa et le service horrible.\n",
+        "phrase": "On a trouvé tout très bon mais l accueil pas très sympa et le service horrible.",
         "triplets": [
             [
                 "service",
@@ -1390,7 +1993,7 @@
         ]
     },
     {
-        "phrase": "La serveuse n a pas souri de tout le diner, elle nous a servi le premier plat avant des boissons, on a du demande des couverts et du pain trois fois.\n",
+        "phrase": "La serveuse n a pas souri de tout le diner, elle nous a servi le premier plat avant des boissons, on a du demande des couverts et du pain trois fois.",
         "triplets": [
             [
                 "nourriture",
@@ -1400,7 +2003,7 @@
         ]
     },
     {
-        "phrase": "Le prix est raisonnable pour la quantité mais le service est tellement horrible que du coup on a trouvé ça cher.\n",
+        "phrase": "Le prix est raisonnable pour la quantité mais le service est tellement horrible que du coup on a trouvé ça cher.",
         "triplets": [
             [
                 "service",
@@ -1415,7 +2018,11 @@
         ]
     },
     {
-        "phrase": "Des produits frais,un accueil , un service sympathique et un menu déjeuner à un prix imbattable,ce restaurant mériterait d'être signalé dans les différents guides.\n",
+        "phrase": "Un accueil sympathique et de bon conseil pour le choix des vins.",
+        "triplets": []
+    },
+    {
+        "phrase": "Des produits frais,un accueil , un service sympathique et un menu déjeuner à un prix imbattable,ce restaurant mériterait d'être signalé dans les différents guides.",
         "triplets": [
             [
                 "service",
@@ -1425,7 +2032,19 @@
         ]
     },
     {
-        "phrase": "Déception au moment de gouter l'onglet épais et bourratif , le foie de veau de mon mari avait la même apparence que mon plat, même sauce marron aux echalotes...franchement rien d'exceptionnel!\n",
+        "phrase": "Nous avons testé plusieurs entrées et plats ..",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais coté service et organisation, c'est de l'improvisation en permanence.",
+        "triplets": []
+    },
+    {
+        "phrase": "Des plats sans saveur a des prix exorbitants!",
+        "triplets": []
+    },
+    {
+        "phrase": "Déception au moment de gouter l'onglet épais et bourratif , le foie de veau de mon mari avait la même apparence que mon plat, même sauce marron aux echalotes...franchement rien d'exceptionnel!",
         "triplets": [
             [
                 "nourriture",
@@ -1435,7 +2054,7 @@
         ]
     },
     {
-        "phrase": "Le service sympa sans plus et le prix en accords avec la quantité , bons desserts ,mais on n'y retournera pas !\n",
+        "phrase": "Le service sympa",
         "triplets": [
             [
                 "service",
@@ -1445,7 +2064,17 @@
         ]
     },
     {
-        "phrase": "La carte est moins complète, certains plats particulièrement gouteux et originaux ont disparu.\n",
+        "phrase": "sans plus et le prix en accords avec la quantité , bons desserts ,mais on n'y retournera pas !",
+        "triplets": [
+            [
+                "nourriture",
+                "desserts",
+                "bons"
+            ]
+        ]
+    },
+    {
+        "phrase": ", certains plats particulièrement gouteux et originaux ont disparu.",
         "triplets": [
             [
                 "nourriture",
@@ -1460,7 +2089,7 @@
         ]
     },
     {
-        "phrase": "Le service s'est dégradé.\n",
+        "phrase": "Le service s'est dégradé.",
         "triplets": [
             [
                 "service",
@@ -1470,7 +2099,23 @@
         ]
     },
     {
-        "phrase": "J'ai mangé un poulet surcruit et très sec pour 25euros !\n",
+        "phrase": "Les terrines et la viande sont excellents ainsi que les vins du Beaujolais.",
+        "triplets": []
+    },
+    {
+        "phrase": "L’entrecôte aux échalotes avec ses champignons poêles est un délice.",
+        "triplets": []
+    },
+    {
+        "phrase": "c'est toujours un régal d'y aller.",
+        "triplets": []
+    },
+    {
+        "phrase": "Des prix très élevés pour des plats à la limite du mangeable.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'ai mangé un poulet surcruit et très sec pour 25euros !",
         "triplets": [
             [
                 "nourriture",
@@ -1485,7 +2130,7 @@
         ]
     },
     {
-        "phrase": "Accueil souriant, service rapide dans un cadre classé, c'est un bon souvenir de Paris\n",
+        "phrase": "Accueil souriant, service rapide dans un cadre classé, c'est un bon souvenir de Paris",
         "triplets": [
             [
                 "service",
@@ -1495,7 +2140,7 @@
         ]
     },
     {
-        "phrase": "Le service y est parfait, le personnel fort sympathique et compétent.\n",
+        "phrase": "Le service y est parfait, le personnel fort sympathique et compétent.",
         "triplets": [
             [
                 "service",
@@ -1505,7 +2150,7 @@
         ]
     },
     {
-        "phrase": "Le plat des coquilles Saint Jacques avec des pâtes a été correct.\n",
+        "phrase": "Le plat des coquilles Saint Jacques avec des pâtes a été correct.",
         "triplets": [
             [
                 "nourriture",
@@ -1515,7 +2160,7 @@
         ]
     },
     {
-        "phrase": "Le dessert une tarte fine a été très moyen.\n",
+        "phrase": "Le dessert une tarte fine a été très moyen.",
         "triplets": [
             [
                 "nourriture",
@@ -1525,7 +2170,7 @@
         ]
     },
     {
-        "phrase": "La tarte a été froide et pas particulièrement fraîche.\n",
+        "phrase": "La tarte a été froide et pas particulièrement fraîche.",
         "triplets": [
             [
                 "nourriture",
@@ -1540,7 +2185,11 @@
         ]
     },
     {
-        "phrase": "A part la cuisine lamentable, le décor est sympa et le service est très agréable.\n",
+        "phrase": "Nous avons gouté plusieurs plats sans saveur, sans raffinement.",
+        "triplets": []
+    },
+    {
+        "phrase": "A part la cuisine lamentable, le décor est sympa et le service est très agréable.",
         "triplets": [
             [
                 "service",
@@ -1550,7 +2199,7 @@
         ]
     },
     {
-        "phrase": "Un vrai régal faites que ça dure.\n",
+        "phrase": "Un vrai régal faites que ça dure.",
         "triplets": [
             [
                 "nourriture",
@@ -1560,7 +2209,7 @@
         ]
     },
     {
-        "phrase": "Service impeccable, le patron et le serveur ont toujours le sourire !\n",
+        "phrase": "Service impeccable",
         "triplets": [
             [
                 "service",
@@ -1570,7 +2219,11 @@
         ]
     },
     {
-        "phrase": "Nous avons testé de nombreux plats différents et toujours excellents !\n",
+        "phrase": ", le patron et le serveur ont toujours le sourire !",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons testé de nombreux plats différents et toujours excellents !",
         "triplets": [
             [
                 "nourriture",
@@ -1590,7 +2243,15 @@
         ]
     },
     {
-        "phrase": "Le service a été impeccable, à la fois diligent et discret.\n",
+        "phrase": "De l'entrée au dessert en passant par un très beau choix de carte des vins.",
+        "triplets": []
+    },
+    {
+        "phrase": "Tout ça pour une trentaine d'euros, et moins de 50€ avec boisson, c'est remarquable !",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service a été impeccable, à la fois diligent et discret.",
         "triplets": [
             [
                 "service",
@@ -1600,7 +2261,11 @@
         ]
     },
     {
-        "phrase": "La synchronisation (moment pour servir les différents plats) était tout à fait correcte.\n",
+        "phrase": "J'adore ces restaurants où on a toujours du vin dans notre coupe sans jamais avoir à toucher à la bouteille, pour moi çà témoigne que le personnel garde toujours un oeil sur vous pour vous servir.",
+        "triplets": []
+    },
+    {
+        "phrase": "La synchronisation (moment pour servir les différents plats) était tout à fait correcte.",
         "triplets": [
             [
                 "nourriture",
@@ -1610,22 +2275,33 @@
         ]
     },
     {
-        "phrase": "L'accueil et le service sont irréprochables : sympathique , pas du tout guindé ; jeune, généreux !\n",
+        "phrase": "Un peu plus de légumes dans les portions serait apprécié pour notre goût.",
+        "triplets": []
+    },
+    {
+        "phrase": "La carte des vins était adéquate, mais le vin est servi un tantinet trop chaud.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'accueil et le service sont irréprochables : sympathique , pas du tout guindé ;",
         "triplets": [
             [
                 "service",
                 "service",
                 "irréprochables"
-            ],
-            [
-                "service",
-                "service",
-                "généreux"
             ]
         ]
     },
     {
-        "phrase": "Les plats sont excellents de l'entrée au dessert.\n",
+        "phrase": "L'accueil et le service, c'est comme dans l'assiette avec un menu déjeuner qui n'a pas son égal !",
+        "triplets": []
+    },
+    {
+        "phrase": "Beaucoup de gentillesse , plein de saveurs !",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats sont excellents de l'entrée au dessert.",
         "triplets": [
             [
                 "nourriture",
@@ -1635,7 +2311,7 @@
         ]
     },
     {
-        "phrase": "Le cadre est très agréable et le service cordial.\n",
+        "phrase": "Le cadre est très agréable et le service cordial.",
         "triplets": [
             [
                 "service",
@@ -1645,7 +2321,15 @@
         ]
     },
     {
-        "phrase": "Le vin parfait.\n",
+        "phrase": "Juste un peu déçu sur l'assaisonnement.",
+        "triplets": []
+    },
+    {
+        "phrase": "Foie gras manquait un peu de cuisson.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le vin parfait.",
         "triplets": [
             [
                 "boisson",
@@ -1655,7 +2339,7 @@
         ]
     },
     {
-        "phrase": "Service aimable.\n",
+        "phrase": "Service aimable.",
         "triplets": [
             [
                 "service",
@@ -1665,7 +2349,7 @@
         ]
     },
     {
-        "phrase": "Charmante ambiance de brasserie avec un personnel très sympathique, plats typiquement français et de saison mais préparés de façon un peu trop \"industriel\" : Par exemple, le gigot de 7 heures servi en cocotte est bouilli !!! Rapport qualité/prix un peu exagéré.\n",
+        "phrase": "Charmante ambiance de brasserie avec un personnel très sympathique, plats typiquement français et de saison mais préparés de façon un peu trop \"industriel\" : Par exemple, le gigot de 7 heures servi en cocotte est bouilli !",
         "triplets": [
             [
                 "nourriture",
@@ -1675,7 +2359,7 @@
         ]
     },
     {
-        "phrase": "- patron désagréable, bourru et hautain\n",
+        "phrase": "- patron désagréable, bourru et hautain",
         "triplets": [
             [
                 "service",
@@ -1685,7 +2369,7 @@
         ]
     },
     {
-        "phrase": "- Les vins \"bio\" \"naturel\" souvent cher et dégueulasse\n",
+        "phrase": "- Les vins \"bio\" \"naturel\" souvent cher et dégueulasse",
         "triplets": [
             [
                 "boisson",
@@ -1705,7 +2389,7 @@
         ]
     },
     {
-        "phrase": "Cuisine correcte mais pas exceptionnelle, service lent.\n",
+        "phrase": "Cuisine correcte mais pas exceptionnelle, service lent.",
         "triplets": [
             [
                 "service",
@@ -1720,7 +2404,23 @@
         ]
     },
     {
-        "phrase": "Je trouve regrettable également que tous les plats sont arrivés froids...\n",
+        "phrase": "Une dorade au chorizo, sans chorizo.",
+        "triplets": []
+    },
+    {
+        "phrase": "A la place une espèce de confit de tomates au citron tout simplement immangeable.",
+        "triplets": []
+    },
+    {
+        "phrase": "Et bien, trop de jus de citron mais aucun geste commercial.",
+        "triplets": []
+    },
+    {
+        "phrase": "La \"purée\" dite maison est de la mousseline, et je ne parle pas des autres légumes qui sont bouillis et sans goût.",
+        "triplets": []
+    },
+    {
+        "phrase": "Je trouve regrettable également que tous les plats sont arrivés froids...",
         "triplets": [
             [
                 "nourriture",
@@ -1730,7 +2430,7 @@
         ]
     },
     {
-        "phrase": "Le carpaccio de tomates en entrée était bon.\n",
+        "phrase": "Le carpaccio de tomates en entrée était bon.",
         "triplets": [
             [
                 "nourriture",
@@ -1740,7 +2440,19 @@
         ]
     },
     {
-        "phrase": "Les plats sont servis en quantité suffisante et bien chauds.\n",
+        "phrase": "Le dessert, une soupe de fraises au basilic était correct.",
+        "triplets": []
+    },
+    {
+        "phrase": "Bref, pour deux personnes avec une bouteille de rosé : 86€ pour des plats froids, sans saveurs, et qui ne correspondent pas à ce qui est écrit sur la carte.",
+        "triplets": []
+    },
+    {
+        "phrase": "Une équipe aimable, de la vraie nourriture traditionnelle française, fraîcheur des aliments, inventivité (pieds de cochons à tester :)) dans les recettes, de bon petits vins, franchement, ça fait 4 fois que j'y vais, et j'en suis toujours ravie !",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats sont servis en quantité suffisante et bien chauds.",
         "triplets": [
             [
                 "nourriture",
@@ -1750,7 +2462,7 @@
         ]
     },
     {
-        "phrase": "L'accueil est souriant et le service agréable.\n",
+        "phrase": "L'accueil est souriant et le service agréable.",
         "triplets": [
             [
                 "service",
@@ -1760,7 +2472,11 @@
         ]
     },
     {
-        "phrase": "Temps d'attente très long et le service mauvais ce qui gâche un peu la soiree.\n",
+        "phrase": "Le menu à 26 euros pour entrée/plat/dessert offre un rapport qualité/prix très satisfaisants.",
+        "triplets": []
+    },
+    {
+        "phrase": "Temps d'attente très long et le service mauvais",
         "triplets": [
             [
                 "service",
@@ -1770,7 +2486,27 @@
         ]
     },
     {
-        "phrase": "Les serveurs sont difficilement compréhensibles et surtout peu aimables !\n",
+        "phrase": "Dans mon assiette: la cuisine est un délice.",
+        "triplets": []
+    },
+    {
+        "phrase": "Fine, parfumée, avec du lait de coco en parcimonie, savamment épicée.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'alliance de la chaleur asiatique et tout la délicatesse du service à l occidentale.",
+        "triplets": []
+    },
+    {
+        "phrase": "On a payé 56€ pour 3 entrées, 2 plats et accompagnements et 2 desserts.",
+        "triplets": []
+    },
+    {
+        "phrase": ", plats certainement réchauffés plusieurs fois, hygiène à désirer...",
+        "triplets": []
+    },
+    {
+        "phrase": "Les serveurs sont difficilement compréhensibles et surtout peu aimables !",
         "triplets": [
             [
                 "service",
@@ -1785,7 +2521,11 @@
         ]
     },
     {
-        "phrase": "Les serveurs et serveuses étaient sympas et tout était très bien organisé, il n'y avait pas du tout de pression au contraire ils étaient tous très cool malgré la tonne de plats qu'ils avaient à servir !\n",
+        "phrase": "Et bien moi je n'ai absolument rien à redire sur le service !",
+        "triplets": []
+    },
+    {
+        "phrase": "Les serveurs et serveuses étaient sympas et tout était très bien organisé, il n'y avait pas du tout de pression au contraire ils étaient tous très cool malgré la tonne de plats qu'ils avaient à servir !",
         "triplets": [
             [
                 "service",
@@ -1795,7 +2535,11 @@
         ]
     },
     {
-        "phrase": "Moi j'ai pris un filet de boeuf sauce aux morilles, c'était tout à fait délicieux et cuit comme il le fallait, parfait.\n",
+        "phrase": "Quelques-uns ont vu leur souris d'agneau pas bien cuite donc 2 bouteilles de rouges nous ont été offertes en compensation.",
+        "triplets": []
+    },
+    {
+        "phrase": "Moi j'ai pris un filet de boeuf sauce aux morilles, c'était tout à fait délicieux et cuit comme il le fallait, parfait.",
         "triplets": [
             [
                 "nourriture",
@@ -1805,7 +2549,15 @@
         ]
     },
     {
-        "phrase": "Une cuisine de bistrot mais très soigneuse, certains plats traditionnels sont excellemment revisités.\n",
+        "phrase": "Les frites maison sont un régal également.",
+        "triplets": []
+    },
+    {
+        "phrase": "Aussi je vous conseille de gouter le mojito, un grand verre pour 5€, super bon.",
+        "triplets": []
+    },
+    {
+        "phrase": "Une cuisine de bistrot mais très soigneuse, certains plats traditionnels sont excellemment revisités.",
         "triplets": [
             [
                 "nourriture",
@@ -1815,7 +2567,27 @@
         ]
     },
     {
-        "phrase": "Service moyen avec un jeune homme dont, à mon avis ce n'est pas le métier.\n",
+        "phrase": "Le pot au feu aux joues de boeuf est à tomber par terre!",
+        "triplets": []
+    },
+    {
+        "phrase": "Les couscous et tajines sont délicieux accompagné d'un bon vin rouge marocain de la sympathies du personnel et du thé à la menthe, une soirée très agréable.",
+        "triplets": []
+    },
+    {
+        "phrase": "Cuisine bonne mais rien d'extraordinaire, lotte, pintade",
+        "triplets": []
+    },
+    {
+        "phrase": "Un menu enfant avec un seul choix de plat et pas possible d'avoir autre chose, nous avons dû commander la pintade beaucoup trop copieuse pour un enfant de 8 ans qui nou sa été compté en plat adulte à 25 euros !",
+        "triplets": []
+    },
+    {
+        "phrase": "Bref 140 euros à 3 avec 2 verres de vin et une limonade, c'est trop pour un déjeuner très simple.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service moyen avec un jeune homme dont, à mon avis ce n'est pas le métier.",
         "triplets": [
             [
                 "service",
@@ -1825,7 +2597,7 @@
         ]
     },
     {
-        "phrase": "Le patron breton est, lui, sympa !\n",
+        "phrase": "Le patron breton est, lui, sympa !",
         "triplets": [
             [
                 "service",
@@ -1835,7 +2607,7 @@
         ]
     },
     {
-        "phrase": "repas et un vin irréprochable, service impeccable.\n",
+        "phrase": "repas et un vin irréprochable, service impeccable",
         "triplets": [
             [
                 "boisson",
@@ -1845,7 +2617,15 @@
         ]
     },
     {
-        "phrase": "Un service inexistant et totalement désordonné ; un patron qui passe plus de temps à discuter avec ses amis en plein milieu de la salle de restaurant plutot que de faire son travail.\n",
+        "phrase": "En effet , entre les plats qui arrivent en retard et ceux qui ne sont pas cuits comme demandé, c'est un peu agaçant.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats sont pas mal, mais il y a tellement mieux dans le quartier comme restaurant Thaïlandais!",
+        "triplets": []
+    },
+    {
+        "phrase": "Un service inexistant et totalement désordonné ;",
         "triplets": [
             [
                 "service",
@@ -1855,7 +2635,11 @@
         ]
     },
     {
-        "phrase": "Un excellent repas mélangeant saveur américaines et savoir faire français de l'entrée jusqu'au dessert.\n",
+        "phrase": "un patron qui passe plus de temps à discuter avec ses amis en plein milieu de la salle de restaurant plutot que de faire son travail.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un excellent repas mélangeant saveur américaines et savoir faire français de l'entrée jusqu'au dessert.",
         "triplets": [
             [
                 "nourriture",
@@ -1865,7 +2649,11 @@
         ]
     },
     {
-        "phrase": "L'ambiance est chaleureuse et originale et le service sans fausses notes et amical est de plus assez rapide.La sélection des vins est en accord avec la carte et le prix avec la votre ;).\n",
+        "phrase": "Nous étions 5 et avons gouté 2 entrées, 5 plats et 4 desserts, tous excellents et très bien préparés, particulièrement les entrées.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'ambiance est chaleureuse et originale et le service sans fausses notes et amical est de plus assez rapide.",
         "triplets": [
             [
                 "service",
@@ -1875,7 +2663,11 @@
         ]
     },
     {
-        "phrase": "A recommander, plats excellents, qualité irréprochable, rapport qualité/prix intéressant.\n",
+        "phrase": "La sélection des vins est en accord avec la carte et le prix avec la votre ;).",
+        "triplets": []
+    },
+    {
+        "phrase": "A recommander, plats excellents, qualité irréprochable, rapport qualité/prix intéressant.",
         "triplets": [
             [
                 "nourriture",
@@ -1885,7 +2677,7 @@
         ]
     },
     {
-        "phrase": "Notre choix, magret de canard, délicieux, cassoulet, excellent et côtes d'agneau à se lécher les babines.\n",
+        "phrase": "Notre choix, magret de canard, délicieux, cassoulet, excellent et côtes d'agneau à se lécher les babines.",
         "triplets": [
             [
                 "nourriture",
@@ -1900,7 +2692,23 @@
         ]
     },
     {
-        "phrase": "Petite salade d'été, simple fraîche et pas cher.\n",
+        "phrase": "Les desserts ne sont pas en reste, charlotte au choco, pain perdu et café gourmand.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'intérieur est sympathique, l'ambiance chaleureuse, le service \"à la bonne franquette\".",
+        "triplets": []
+    },
+    {
+        "phrase": "En revanche, les plats que nous avons commandés n'avaient franchement rien d'exceptionnel : légumes pas assez cuits, une souris d'agneau servie en grosse portion, sans finesse aucune.",
+        "triplets": []
+    },
+    {
+        "phrase": "Bon choix de vins.",
+        "triplets": []
+    },
+    {
+        "phrase": "Petite salade d'été, simple fraîche et pas cher",
         "triplets": [
             [
                 "nourriture",
@@ -1915,7 +2723,11 @@
         ]
     },
     {
-        "phrase": "Service sympa, l'équipe très jeune.\n",
+        "phrase": "Tiramisu a la fraise efficace en fin de dîner.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service sympa, l'équipe très jeune.",
         "triplets": [
             [
                 "service",
@@ -1925,7 +2737,7 @@
         ]
     },
     {
-        "phrase": "un des serveurs a le physique d'un enfant de 15ans ;) mais très dynamique et sympa.\n",
+        "phrase": "un des serveurs a le physique d'un enfant de 15ans ;) mais très dynamique et sympa.",
         "triplets": [
             [
                 "service",
@@ -1935,7 +2747,7 @@
         ]
     },
     {
-        "phrase": "Un serveur sympathique mais c'est le seul point positif.\n",
+        "phrase": "Un serveur sympathique mais c'est le seul point positif",
         "triplets": [
             [
                 "service",
@@ -1945,7 +2757,11 @@
         ]
     },
     {
-        "phrase": "Service très lent et désordonné, cuisine surgelée et mauvaise, des assiettes banales qu'un enfant peut préparer et qui ne mettent pas en appétit ...\n",
+        "phrase": "Et en prime quand un serveur marche sur vos affaires et casse quelque chose, aucune excuse, on vous apporte la note très rapidement...",
+        "triplets": []
+    },
+    {
+        "phrase": "Service très lent et désordonné, cuisine surgelée et mauvaise, des assiettes banales qu'un enfant peut préparer et qui ne mettent pas en appétit ...",
         "triplets": [
             [
                 "service",
@@ -1960,7 +2776,23 @@
         ]
     },
     {
-        "phrase": "Accueil très chaleureuse , service impeccable, les gerants sont très sympathique et très professionnel.\n",
+        "phrase": "Aucune excuse pour le service et l'attente.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'ai pris un tartare coupé au couteau mais le boeuf était de très mauvaise qualité, la viande toute fibreuse et dure et le plat n'avait donc aucune saveur.",
+        "triplets": []
+    },
+    {
+        "phrase": "Moi qui adore le tartare",
+        "triplets": []
+    },
+    {
+        "phrase": "Ce n'était pas frais et la viande était mauvaise.",
+        "triplets": []
+    },
+    {
+        "phrase": "Accueil très chaleureuse , service impeccable, les gerants sont très sympathique et très professionnel.",
         "triplets": [
             [
                 "service",
@@ -1980,7 +2812,11 @@
         ]
     },
     {
-        "phrase": "L'apéritif inclus ne nous est pas servi et les entrées sont amenées précipitamment jusque là rien de trop grave ...foie gras et saumon corrects puis une heure d'attente pour avoir les plats : un tartare et un pavé au poivre la viande devait être de qualité correcte sensée être une sélection Hugo Desnoyer (mauvaise idée de laisser maltraiter ainsi ses produits) mais si le tartare est mangeable bien que peu assaisonné le pavé lui est cuit façon semelle sèche et charbonneuse mais effectivement saignante à coeur, un exploit et l'huile utilisée pour les frites n'a pas dû être filtrée donc elles sont plutôt bonnes mais grises ...\n",
+        "phrase": "La qualité de la nourriture est juste magnifique, on peut même repartir avec des petits pots ou ingrédients utilisé par le restaurant qui sont vendu à la sortie.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'apéritif inclus ne nous est pas servi et les entrées sont amenées précipitamment jusque là rien de trop grave ...foie gras et saumon corrects puis une heure d'attente pour avoir les plats : un tartare et un pavé au poivre la viande devait être de qualité correcte sensée être une sélection Hugo Desnoyer (mauvaise idée de laisser maltraiter ainsi ses produits) mais si le tartare est mangeable bien que peu assaisonné le pavé lui est cuit façon semelle sèche et charbonneuse mais effectivement saignante à coeur, un exploit et l'huile utilisée pour les frites n'a pas dû être filtrée donc elles sont plutôt bonnes mais grises ...",
         "triplets": [
             [
                 "boisson",
@@ -2005,7 +2841,31 @@
         ]
     },
     {
-        "phrase": "Service ultra lent, serveuses sans sourire ni amabilité minimale, besoin de réclamer la carte, galette œuf jambon fromage sans saveur et triste présentation.\n",
+        "phrase": "De nouveau 30 à 40 mn d'attente pour les desserts qui ne sont pas mangeables et renvoyés à la 2ème bouchée tarte fine au pommes trop froide et glace vanille arrivée à moitié fondue et pour mon mari crêpes cartonnées ...",
+        "triplets": []
+    },
+    {
+        "phrase": "Passons rapidement sur la carafe d'eau arrivée à mi repas et le vin jamais resservi la musique façon rave pas adaptée et pour finir pas un geste sur l'addition pour nous rendre plus indulgents ?",
+        "triplets": []
+    },
+    {
+        "phrase": "Crêpes et galettes qui arrivent 2min30 après avoir passé la commande...très sèches...",
+        "triplets": []
+    },
+    {
+        "phrase": "pas de saveurs et surtout une soirée de crampes d'estomac pour les 4 personnes qui étaient autour de la table, à peine 20min après le diner !",
+        "triplets": []
+    },
+    {
+        "phrase": "Bon accueil mais service",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous n'avons goûté que les pizzas qui étaient quelconques.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service ultra lent, serveuses sans sourire ni amabilité minimale, besoin de réclamer la carte, galette œuf jambon fromage sans saveur et triste présentation.",
         "triplets": [
             [
                 "service",
@@ -2025,7 +2885,11 @@
         ]
     },
     {
-        "phrase": "Nous avons demandé du Coca-Cola et on nous a servi du soda discount sans nous en avoir informé, qui plus est il était chaud.\n",
+        "phrase": "Gros effort à faire sur la cuisine et le service.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons demandé du Coca-Cola et on nous a servi du soda discount sans nous en avoir informé, qui plus est il était chaud.",
         "triplets": [
             [
                 "boisson",
@@ -2035,7 +2899,11 @@
         ]
     },
     {
-        "phrase": "Cela nous a tellement dégouté que nous sommes partis avant même d'attendre le plat principal.\n",
+        "phrase": "L'entrée était très maigre, surtout de la salade.",
+        "triplets": []
+    },
+    {
+        "phrase": "Cela nous a tellement dégouté que nous sommes partis avant même d'attendre le plat principal.",
         "triplets": [
             [
                 "nourriture",
@@ -2045,7 +2913,27 @@
         ]
     },
     {
-        "phrase": "Le repas pris était typique de la région (salade de chèvre miel, seiche à la seitoise et son excellent rizotto....).\n",
+        "phrase": "J'ai remarqué un petit écriteau qui indiqué que leur viande de canard venait des pays de l'Est, un comble pour le pays du cassoulet.",
+        "triplets": []
+    },
+    {
+        "phrase": "pièce de bœuf de 3 millimètres d épaisseur 4 centimètres de large sans goût une honte, desset crème caramel au beurre salé industrielle chimique pas bon",
+        "triplets": []
+    },
+    {
+        "phrase": "Pendant le repas, nous avons vu un serveur dégouté de son travail (ou peut être de l'ambiance à son travail ) ;",
+        "triplets": []
+    },
+    {
+        "phrase": "des plats sans passion, vaisselle cassée, plat du jour ( riz crustacés en gros ) très sec, sans sauce, gambas pas fraîches, une pauvre décoration superflue...",
+        "triplets": []
+    },
+    {
+        "phrase": "Si encore les plats avaient pu rattrapper le personnel !",
+        "triplets": []
+    },
+    {
+        "phrase": "Le repas pris était typique de la région (salade de chèvre miel, seiche à la seitoise et son excellent rizotto....).",
         "triplets": [
             [
                 "nourriture",
@@ -2055,7 +2943,11 @@
         ]
     },
     {
-        "phrase": "L'accueil n'est pas tip-top, le service non plus et les plats ne sont pas géniaux.\n",
+        "phrase": "Les desserts joliment présentés et agréablement bons.",
+        "triplets": []
+    },
+    {
+        "phrase": ", le service non plus et les plats ne sont pas géniaux.",
         "triplets": [
             [
                 "service",
@@ -2065,7 +2957,11 @@
         ]
     },
     {
-        "phrase": "Dommage, même si le pain est exquis.\n",
+        "phrase": "En effet les pâtes étaient trop cuites, mal assaisonnées, dommage pour un resto italien.",
+        "triplets": []
+    },
+    {
+        "phrase": ", même si le pain est exquis.",
         "triplets": [
             [
                 "nourriture",
@@ -2075,7 +2971,23 @@
         ]
     },
     {
-        "phrase": "Les serveuses sont gentilles, le serveur ou chef de rang n'est pas professionnel.\n",
+        "phrase": "La cuisine est vraiment fade, sans saveur.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'y suis allée 2 fois pour être sûre, mais à chaque fois la déception (assiette d'entrée diverses réchauffée au micro-onde, le pain naan élastique et la viande (j'avais pris une fois du bœuf, une fois de l'agneau) remplit de petit morceaux de graisse.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le patron a beaucoup d'humour et prend plaisir à animer la salle.",
+        "triplets": []
+    },
+    {
+        "phrase": "Entrée grasse et surgelée \"nem aux poireaux\", bordeaux amer, et onglet avec polenta à gerber… ( viande caoutchouc)",
+        "triplets": []
+    },
+    {
+        "phrase": "Les serveuses sont gentilles, le serveur ou chef de rang n'est pas professionnel.",
         "triplets": [
             [
                 "service",
@@ -2085,7 +2997,11 @@
         ]
     },
     {
-        "phrase": "Le service est impeccable, personnel agréable.\n",
+        "phrase": "Aucune explication sur les plats.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service est impeccable, personnel agréable.",
         "triplets": [
             [
                 "service",
@@ -2095,7 +3011,19 @@
         ]
     },
     {
-        "phrase": "Patron gentil mais débordé (succès oblige) d'où une certaine attente qui reste supportable.\n",
+        "phrase": "Des mets dans l'ensemble correcte mais un canard trop sec , un tiramitsu trop expresso et une gaufre à la chantilly trop chocolatée !",
+        "triplets": []
+    },
+    {
+        "phrase": "Le moelleux speculos/chocolat était a tom et pas terre.",
+        "triplets": []
+    },
+    {
+        "phrase": "Quasi gastronomique, des plat de qualités avec plein de saveurs un délice, y allant régulièrement le midi pour ma pause déjeuné je suis rarement déçu et l'accueil et le service sont au top, je recommande !!",
+        "triplets": []
+    },
+    {
+        "phrase": "Patron gentil mais débordé (succès oblige) d'où une certaine attente qui reste supportable.",
         "triplets": [
             [
                 "service",
@@ -2105,7 +3033,11 @@
         ]
     },
     {
-        "phrase": "15 minutes après avoir finis le plat principal nous ne sommes toujours pas débarrassés.\n",
+        "phrase": "Viande à point servie bleu , buffet d'entrée répétitif et sans intérêt , service sans sourire , premier arriver premier oublier.",
+        "triplets": []
+    },
+    {
+        "phrase": "15 minutes après avoir finis le plat principal nous ne sommes toujours pas débarrassés.",
         "triplets": [
             [
                 "nourriture",
@@ -2115,7 +3047,43 @@
         ]
     },
     {
-        "phrase": "15 minutes plus tard j'y retourne : \" les prochains plats seront les vôtres ne vous inquiétez pas\"\n",
+        "phrase": "Pas de dessert , pas de café",
+        "triplets": []
+    },
+    {
+        "phrase": "Un endroit chaleureux pour manger au milieu de plein de bouteilles de vins.",
+        "triplets": []
+    },
+    {
+        "phrase": "Avec une petite histoire sur la bouteille de vin choisie excellemment raconter par le patron fort agréable.",
+        "triplets": []
+    },
+    {
+        "phrase": "Que du surgelé en plus.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le patron ne s’intéresse qu'aux habitués (les entreprises de bureau), les autres passent après...",
+        "triplets": []
+    },
+    {
+        "phrase": "Entrée, plat",
+        "triplets": []
+    },
+    {
+        "phrase": "Un peu déçue par le service (beaucoup de faux pas qu'on ne doit pas voir dans ce type de restaurant : nous nous sommes même débrouillés tout seuls pour récupérer nos manteaux et sortir du restaurant), émerveillée par le cadre, et la carte des vins mais je suis restée sur ma faim quant à la qualité des assiettes !",
+        "triplets": []
+    },
+    {
+        "phrase": "Notre commande : steak tartare, salade du chef et san pellegrino... des plats froids normalement rapides à faire.",
+        "triplets": []
+    },
+    {
+        "phrase": ".... mon ami va donc prendre des nouvelles de nos plats en précisant que nous sommes pressés \" je vais voir où ça en est\" puis silence radio.",
+        "triplets": []
+    },
+    {
+        "phrase": "15 minutes plus tard j'y retourne : \" les prochains plats seront les vôtres ne vous inquiétez pas\"",
         "triplets": [
             [
                 "nourriture",
@@ -2125,7 +3093,23 @@
         ]
     },
     {
-        "phrase": "Nous ne sommes pas ici dans un restau à touristes, le décor est simple et sobre, même un peu trop à mon goût, moi qui aime les intérieurs cosys et les ptits chichis, la carte des vins sur une feuille A5 pliée en deux me rebute un peu au premier abord.\n",
+        "phrase": "4 plats plus tard toujours aucune trace de nos assiettes.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'explique le pourquoi à une serveuse qui était entrain d'encaisser et là cerise sur le gâteau : elle nous facture la bouteille d'eau sans une excuse !!",
+        "triplets": []
+    },
+    {
+        "phrase": "Une serveuse nous rattrapera à la sortie pour s'excuser et nous dire que nos plats sont entrain d'arriver : \" trop tard je reprends le travail dans 15min !",
+        "triplets": []
+    },
+    {
+        "phrase": "car les plats avaient l'air très bon contrairement aux sandwichs triangle du supermarché que nous avons dû manger en vitesse dans la rue !",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous ne sommes pas ici dans un restau à touristes, le décor est simple et sobre, même un peu trop à mon goût, moi qui aime les intérieurs cosys et les ptits chichis, la carte des vins sur une feuille A5 pliée en deux me rebute un peu au premier abord.",
         "triplets": [
             [
                 "boisson",
@@ -2135,7 +3119,7 @@
         ]
     },
     {
-        "phrase": "Les fameux plats arrivent, ni trop tôt, ni sans se faire attendre.\n",
+        "phrase": "Les fameux plats arrivent, ni trop tôt, ni sans se faire attendre.",
         "triplets": [
             [
                 "nourriture",
@@ -2145,7 +3129,25 @@
         ]
     },
     {
-        "phrase": "Mon conjoint a vraiment apprécié son dessert bon et conséquent.\n",
+        "phrase": "Vraiment pas mal du tout ces petits rognons, on comprend leur succès, même si j'aurais aimé un peu plus de sauce et de garniture.",
+        "triplets": []
+    },
+    {
+        "phrase": "Dessert:",
+        "triplets": []
+    },
+    {
+        "phrase": "Chtiterolles et café gourmand.",
+        "triplets": [
+            [
+                "boisson",
+                "café",
+                "gourmand"
+            ]
+        ]
+    },
+    {
+        "phrase": "Mon conjoint a vraiment apprécié son dessert bon et conséquent.",
         "triplets": [
             [
                 "nourriture",
@@ -2155,7 +3157,15 @@
         ]
     },
     {
-        "phrase": "Le lieu est propre et le service correct, quoique un peu long (mais peut-être manquait-il du personnel ce jour là).\n",
+        "phrase": "pour ma part, j'ai été agréablement surprise par la crème au spéculos.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'y retournerai certainement pour manger un plat qui sort de ce qui peut se faire dans le vieux lille pour attraper le touriste, même si j'aurais aimé quelques euros de moins sur l'addition.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le lieu est propre et le service correct, quoique un peu long (mais peut-être manquait-il du personnel ce jour là).",
         "triplets": [
             [
                 "service",
@@ -2170,7 +3180,15 @@
         ]
     },
     {
-        "phrase": "L'entrée et le plat étaient assez classiques (avec un bémol pour la salade sans goût) mais le dessert était bon.\n",
+        "phrase": "J'ai apprécié d'avoir des couverts différents pour l'entrée et le plat (car combien de restaurants vous laissent désormais les mêmes couverts!),",
+        "triplets": []
+    },
+    {
+        "phrase": "Mon choix s'était porté sur de la terrine de campagne, de la carbonnade flamande, et une brioche perdue avec une boule de glace caramel.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'entrée et le plat étaient assez classiques (avec un bémol pour la salade sans goût) mais le dessert était bon.",
         "triplets": [
             [
                 "nourriture",
@@ -2180,7 +3198,19 @@
         ]
     },
     {
-        "phrase": "On ne nous avait jamais fait le gag du saumon mariné dont la moitié était en salade.\n",
+        "phrase": "Nous avons pris les pâtes au foie gras et cèpes, celles-ci baignaient dans de la crème et de la crème balsamique!",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons aussi pris le risotto aux St Jacques qui était très riche en crème!",
+        "triplets": []
+    },
+    {
+        "phrase": "Si la note est peu élevée (61,90) pour un repas et une bouteille de vin du mois.",
+        "triplets": []
+    },
+    {
+        "phrase": "On ne nous avait jamais fait le gag du saumon mariné dont la moitié était en salade.",
         "triplets": [
             [
                 "nourriture",
@@ -2190,7 +3220,7 @@
         ]
     },
     {
-        "phrase": "Le service est moyen.\n",
+        "phrase": "Le service est moyen.",
         "triplets": [
             [
                 "service",
@@ -2200,7 +3230,7 @@
         ]
     },
     {
-        "phrase": "Le patron est bien sympa : on recommande sans hésiter.\n",
+        "phrase": "Le patron est bien sympa :",
         "triplets": [
             [
                 "service",
@@ -2210,7 +3240,15 @@
         ]
     },
     {
-        "phrase": "Les galettes sont copieuses et les crêpes excellentes, fines et légères.\n",
+        "phrase": "L'avantage est qu'il est possible de prendre des plats à emporter.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'ai pris un menu \"galette\" (galette + crêpe + bolée de cidre à 9€40).",
+        "triplets": []
+    },
+    {
+        "phrase": "Les galettes sont copieuses et les crêpes excellentes, fines et légères.",
         "triplets": [
             [
                 "nourriture",
@@ -2225,7 +3263,27 @@
         ]
     },
     {
-        "phrase": "Nous avions envie de moules frites et nous avons été un peu déçus : des moules trop cuites (voire re-cuites), sèches et fades.\n",
+        "phrase": "Un plat et une galette du jour sont également proposés.",
+        "triplets": []
+    },
+    {
+        "phrase": "La mousse au chocolat en dessert était excellente.",
+        "triplets": []
+    },
+    {
+        "phrase": "Seul bémol, le prix du vin au verre qui est trop cher.",
+        "triplets": []
+    },
+    {
+        "phrase": "J'ai soulevé le couvercle de mon burger pour vérifier et suis tombé sur des feuilles de salade toutes flétries pour ne pas dire pire que ça.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les frites étaient quasiment transformées en purée tellement elles étaient imbibées de graisse.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avions envie de moules frites et nous avons été un peu déçus : des moules trop cuites (voire re-cuites), sèches et fades.",
         "triplets": [
             [
                 "nourriture",
@@ -2235,7 +3293,11 @@
         ]
     },
     {
-        "phrase": "Le menu du midi en semaine est très abordable, les plats sont excellents.\n",
+        "phrase": "Les frites et le vin blanc étaient médiocres.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le menu du midi en semaine est très abordable, les plats sont excellents.",
         "triplets": [
             [
                 "nourriture",
@@ -2245,7 +3307,19 @@
         ]
     },
     {
-        "phrase": "seul le vin était correct en rapport Q/P, les entrées et desserts sont inégaux quant à eux.\n",
+        "phrase": "Service de bon niveau.",
+        "triplets": []
+    },
+    {
+        "phrase": "ce qui est régulièrement raté, ce sont les cuissons des viandes : du bleu arrivant froid à peine dégelé au centre , du saignant juste bleu, etc... les chips offertes en entrée étaient infectes : huileuses comme des éponges et au gout de brulé.",
+        "triplets": []
+    },
+    {
+        "phrase": "en plus nous avons attendu très longtemps une carafe d'eau et la sauce censée accompagner la viande lors de notre dernier essai.",
+        "triplets": []
+    },
+    {
+        "phrase": "seul le vin était correct en rapport Q/P, les entrées et desserts sont inégaux quant à eux.",
         "triplets": [
             [
                 "boisson",
@@ -2260,7 +3334,11 @@
         ]
     },
     {
-        "phrase": "Le service est très agréable !\n",
+        "phrase": ", je pense que l'hygiène n'est pas au rendez-vous (serveuse cheveux détachées et gras) le cuisinier surpris en train de piquer dans les plats avec ses doigts, vaisselles très sales, viandes cuites à l'avance, nourriture sans saveur, pain vendu dès l'entrée et en libre service en salle.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service est très agréable !",
         "triplets": [
             [
                 "service",
@@ -2270,7 +3348,11 @@
         ]
     },
     {
-        "phrase": "40 minutes montre en main pour avec une salade abîmée et des pattes réchauffer qui devaient au moins avoir 3 jours.\n",
+        "phrase": "Vraiment ravi très joli resto, accueil très sympathique avec un serveur à l'ecoute et de très bon conseil , niveau repas vraiment très bon rien à redire.",
+        "triplets": []
+    },
+    {
+        "phrase": "40 minutes montre en main pour avec une salade abîmée et des pattes réchauffer qui devaient au moins avoir 3 jours.",
         "triplets": [
             [
                 "nourriture",
@@ -2280,7 +3362,7 @@
         ]
     },
     {
-        "phrase": "Le pain était sec et rassi.\n",
+        "phrase": "Le pain était sec et rassi.",
         "triplets": [
             [
                 "nourriture",
@@ -2290,7 +3372,7 @@
         ]
     },
     {
-        "phrase": "Le patron sympathique et les vins servis au verre ou en bouteille sont bons ..beaucoup d'originalité dans les tapas proposées , au demeurant , fort bons ...\n",
+        "phrase": "Le patron sympathique et les vins servis au verre ou en bouteille sont bons ..beaucoup d'originalité dans les tapas proposées , au demeurant , fort bons ...",
         "triplets": [
             [
                 "service",
@@ -2305,7 +3387,7 @@
         ]
     },
     {
-        "phrase": "Si l'on ajoute à cela des produits frais, du goûts et des recettes originales, c'est le paradis!\n",
+        "phrase": "Si l'on ajoute à cela des produits frais, du goûts et des recettes originales, c'est le paradis!",
         "triplets": [
             [
                 "nourriture",
@@ -2315,7 +3397,15 @@
         ]
     },
     {
-        "phrase": "Les pizzas sont honnêtement très bonnes !\n",
+        "phrase": "Les confitures maison sont un délice",
+        "triplets": []
+    },
+    {
+        "phrase": "Des hamburgers, des pizzas succulentes, des brushettas, et une escalope milanaise exceptionnelle.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les pizzas sont honnêtement très bonnes !",
         "triplets": [
             [
                 "nourriture",
@@ -2325,7 +3415,15 @@
         ]
     },
     {
-        "phrase": "- service beaucoup trop long sachant que nous sommes arrivés parmi les premiers (19:45) que nous avons été placés au fin fond de la terrasse sur le trottoir et que nous en sommes répartis à 22h15 alors que des gens arrivés après nous sont répartis bien avant...\n",
+        "phrase": "Le chef ne tire pas sur la marchandise : une pizza bien garnie !",
+        "triplets": []
+    },
+    {
+        "phrase": "pour la qualité des pizzas :)",
+        "triplets": []
+    },
+    {
+        "phrase": "- service beaucoup trop long sachant que nous sommes arrivés parmi les premiers (19:45) que nous avons été placés au fin fond de la terrasse sur le trottoir et que nous en sommes répartis à 22h15 alors que des gens arrivés après nous sont répartis bien avant...",
         "triplets": [
             [
                 "service",
@@ -2335,7 +3433,21 @@
         ]
     },
     {
-        "phrase": "- la nourriture: les pizzas sont bonnes, pour les supions à la persillade passez votre chemin car il y a beaucoup mieux.\n",
+        "phrase": "- serveur peu précautionneux qui a fait tomber les couverts sur ma compagne en la tâchant sans excuses, pour une table de 4 il nous portait les carafes d'eau une par une (contenance 75 cl) alors que nous lui avions suggéré d'en porter 2 à chaque fois pour que cela arrange tout le monde mais pas entendu ce qui fait que nous avons attendu des fois plus d'un 1/4h pour se désaltérer avec une eau à température ambiante (30°)",
+        "triplets": []
+    },
+    {
+        "phrase": "- Les glaçons nous ont été porté dans une coupe à glace sans cuillère sympa pour l'hygiène!",
+        "triplets": [
+            [
+                "boisson",
+                "cuillère",
+                "sympa"
+            ]
+        ]
+    },
+    {
+        "phrase": "- la nourriture: les pizzas sont bonnes, pour les supions à la persillade passez votre chemin car il y a beaucoup mieux.",
         "triplets": [
             [
                 "nourriture",
@@ -2345,7 +3457,7 @@
         ]
     },
     {
-        "phrase": "En effet, les supions sont servis à peine frits avec des têtes d'ail entières tout comme les pommes de terre sautées du jamais vu et surtout aucun goût!\n",
+        "phrase": "En effet, les supions sont servis à peine frits avec des têtes d'ail entières tout comme les pommes de terre sautées du jamais vu et surtout aucun goût!",
         "triplets": [
             [
                 "nourriture",
@@ -2355,7 +3467,7 @@
         ]
     },
     {
-        "phrase": "De plus les pommes de terre étaient trop salées donc besoin de beaucoup d'eau (cf 2ème paragraphe) - Les desserts: citrons givrés rien à dire car c'est de l'habituel industriel, le tiramisu est lui servi avec chantilly et crème anglaise???\n",
+        "phrase": "De plus les pommes de terre étaient trop salées donc besoin de beaucoup d'eau (cf 2ème paragraphe)",
         "triplets": [
             [
                 "nourriture",
@@ -2365,7 +3477,11 @@
         ]
     },
     {
-        "phrase": "Du jamais vu et surtout sans intérêt pour mon dessert favori qui se suffit sans artifice...\n",
+        "phrase": "- Les desserts: citrons givrés rien à dire car c'est de l'habituel industriel, le tiramisu est lui servi avec chantilly et crème anglaise??",
+        "triplets": []
+    },
+    {
+        "phrase": "Du jamais vu et surtout sans intérêt pour mon dessert favori qui se suffit sans artifice...",
         "triplets": [
             [
                 "nourriture",
@@ -2375,7 +3491,39 @@
         ]
     },
     {
-        "phrase": "Carte alléchante de spécialités locales, service continu et prix exorbitants.\n",
+        "phrase": "- le limoncello: à la fin du menu à 30€, servi à température ambiante tout comme l'eau alors que cela se sert glacé...",
+        "triplets": []
+    },
+    {
+        "phrase": "prix n'y est pas du tout tant au niveau du service ou des plats servis car quand on veut mettre en place sa patte dans le décorum il ne faut pas que le reste soit négligé chose que le patron semble avoir perdu de vue alors que son père l'avait bien compris !",
+        "triplets": []
+    },
+    {
+        "phrase": "Wok thai médiocre",
+        "triplets": []
+    },
+    {
+        "phrase": ", 2 salades chèvre/saumon, l'une correcte",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous réclamons des rinces doigts pour les fruits de mer, ils arrivent en même temps que le dessert avec en excuse \"on en avait plus, on est allé en chercher ailleurs\" étonnant quand on propose des plateaux de fruits de mer.",
+        "triplets": []
+    },
+    {
+        "phrase": "Pour finir le fraisier (plutot une mousse décoré de quelques fraises) commandé pour l'anniversaire nous est arrivé sur la table comme un cheveu sur la soupe!",
+        "triplets": []
+    },
+    {
+        "phrase": "Une fois découpé nous nous sommes retrouvé avec un amas de crème dans les assiettes!",
+        "triplets": []
+    },
+    {
+        "phrase": "car aucune attention particulière des serveurs pour savoir si tout allait bien, si le gateau nous convenait, enfin un minimum d'attention aurait été apprécié pour une addition de 270 euros!",
+        "triplets": []
+    },
+    {
+        "phrase": "Carte alléchante de spécialités locales, service continu et prix exorbitants.",
         "triplets": [
             [
                 "service",
@@ -2385,7 +3533,7 @@
         ]
     },
     {
-        "phrase": "En effet, on nous accepte à 15 h 00 pour déjeuner à 8, mais le serveur est seul à cette heure et le restaurant est encore bien rempli.\n",
+        "phrase": "En effet, on nous accepte à 15 h 00 pour déjeuner à 8, mais le serveur est seul à cette heure et le restaurant est encore bien rempli.",
         "triplets": [
             [
                 "service",
@@ -2395,7 +3543,7 @@
         ]
     },
     {
-        "phrase": "Le service est donc extrêmement long et très désorganisé.\n",
+        "phrase": "Le service est donc extrêmement long et très désorganisé.",
         "triplets": [
             [
                 "service",
@@ -2405,7 +3553,23 @@
         ]
     },
     {
-        "phrase": "Or, les plats étaient corrects, par contre dès l'installation des assiettes, le serveur a pris mon demi de Leffe qui n'était pas terminé sans que je m'en aperçoive, c'est une pratique plutôt douteuse pour pousser à la consommation, je suppose qu'il souhaitait que j'en reprenne un autre puisqu'en plus il n'a posé sur la table ni eau, ni pain, j'ai du le demander, et il m'a répondu d'attendre car il n'avait plus de pain, cela voulait il dire qu'il attendait qu'une table se libère pour nous donner sa corbeille?\n",
+        "phrase": "Quand aux plats, très décevants.",
+        "triplets": []
+    },
+    {
+        "phrase": "On nous a apporté la pince à homard au moment de débarrasser la table !!!",
+        "triplets": []
+    },
+    {
+        "phrase": "Les cafés sont arrivés bien avant les desserts...",
+        "triplets": []
+    },
+    {
+        "phrase": "Tout d'abord un serveur nous a littéralement sauté dessus lorsque nous lisions la carte, malgré cette méthode plutôt brutale le contenu de la carte avait l'air pas mal, nous avons donc décidés d’accepter, ensuite après avoir fait notre choix, l'attente a été longue, heureusement l'égarement d'une serveuse avec ses assiettes nous a fait passer le temps, elles nous a fait de la peine.",
+        "triplets": []
+    },
+    {
+        "phrase": "Or, les plats étaient corrects, par contre dès l'installation des assiettes, le serveur a pris mon demi de Leffe qui n'était pas terminé sans que je m'en aperçoive, c'est une pratique plutôt douteuse pour pousser à la consommation, je suppose qu'il souhaitait que j'en reprenne un autre puisqu'en plus il n'a posé sur la table ni eau, ni pain, j'ai du le demander, et il m'a répondu d'attendre car il n'avait plus de pain, cela voulait il dire qu'il attendait qu'une table se libère pour nous donner sa corbeille?",
         "triplets": [
             [
                 "nourriture",
@@ -2415,7 +3579,19 @@
         ]
     },
     {
-        "phrase": "Le seul petit bémol : le plat principal du menu m'a été servi quasi froid, peut-être à cause du temps de préparation de la bouillabaisse.\n",
+        "phrase": "Et pour finir, je me rends à la caisse pour payer, et là, la cerise sur la gâteau il m'annonce qu'ils ne prennent pas la carte, en 2015, avec une situation géographique pareille, et tous ces touristes, c'est la première fois que j'entends cela, ça sent l'arnaque, non?",
+        "triplets": []
+    },
+    {
+        "phrase": "Donc j'ai du retirer avec un serveur qui m'a suivi au cas où j'aurais décidé de ne pas revenir, en plus on a l'impression d'être des voleurs, et à mon retour un monsieur était présent à la caisse, il ne souriait pas et en plus était très désagréable.",
+        "triplets": []
+    },
+    {
+        "phrase": "La bouillabaisse, copieuse, était un régal (aucune arête en plus !).",
+        "triplets": []
+    },
+    {
+        "phrase": "Le seul petit bémol : le plat principal du menu m'a été servi quasi froid, peut-être à cause du temps de préparation de la bouillabaisse.",
         "triplets": [
             [
                 "nourriture",
@@ -2425,7 +3601,19 @@
         ]
     },
     {
-        "phrase": "De surcroit, rapport qualité pris très correct (45€ par personne avec un excellent vin).\n",
+        "phrase": "Sortie privée avec mon épouse, et vraiment pas déçus : accueil très sympa, bonne table,serveur prévenant et pas d'attente pour la commande.",
+        "triplets": []
+    },
+    {
+        "phrase": "un régal sur les poissons à la plancha : poissons hyper frais, et très bien préparés.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un peu d'attente pour les desserts, mais normal vu l'affluence (réputation et qualité obligent).",
+        "triplets": []
+    },
+    {
+        "phrase": "De surcroit, rapport qualité pris très correct (45€ par personne avec un excellent vin).",
         "triplets": [
             [
                 "boisson",
@@ -2435,7 +3623,15 @@
         ]
     },
     {
-        "phrase": "Millefeuille tomates mozzarella : simple salade tomate mozza\n",
+        "phrase": "Mention spéciale aux serveurs pour leur professionnalisme.",
+        "triplets": []
+    },
+    {
+        "phrase": "dans les plats",
+        "triplets": []
+    },
+    {
+        "phrase": "Millefeuille tomates",
         "triplets": [
             [
                 "nourriture",
@@ -2445,7 +3641,23 @@
         ]
     },
     {
-        "phrase": "Café gourmand : café et une part de tarte aux pommes surgelée (écrit fait maison sur la carte)\n",
+        "phrase": "mozzarella : simple salade tomate mozza",
+        "triplets": []
+    },
+    {
+        "phrase": "Pas eu l'apéritif offert",
+        "triplets": []
+    },
+    {
+        "phrase": "Dorade au champagne : Colin surgelé avec de la sauce blanche et des herbes, pas de champagne",
+        "triplets": []
+    },
+    {
+        "phrase": "Légumes surgelés dans les plats",
+        "triplets": []
+    },
+    {
+        "phrase": "Café gourmand : café et une part de tarte aux pommes surgelée (écrit fait maison sur la carte)",
         "triplets": [
             [
                 "boisson",
@@ -2455,7 +3667,7 @@
         ]
     },
     {
-        "phrase": "Nous nous attendions à quelque chose de très grande qualité, c'était un peu ordinaire et certains plats étaient fades.\n",
+        "phrase": "Nous nous attendions à quelque chose de très grande qualité, c'était un peu ordinaire et certains plats étaient fades.",
         "triplets": [
             [
                 "nourriture",
@@ -2465,7 +3677,11 @@
         ]
     },
     {
-        "phrase": "La croustade de saint Jacques est le meilleur de nos plats (les saint jacques sont généreuses et la sauce est bonne).\n",
+        "phrase": "Le confit ne ressemble pas à un confit (ça ressemble à une saucisse) et le gout ne suit pas non plus.",
+        "triplets": []
+    },
+    {
+        "phrase": "La croustade de saint Jacques est le meilleur de nos plats (les saint jacques sont généreuses et la sauce est bonne).",
         "triplets": [
             [
                 "nourriture",
@@ -2480,7 +3696,11 @@
         ]
     },
     {
-        "phrase": "La viande était dure, les fruits de mer des pâtes surgelés et sans goût.\n",
+        "phrase": "Pas de vin à moins de 35 € la bouteille, des prix qui se justifieraient si la qualité des mets était à la hauteur.",
+        "triplets": []
+    },
+    {
+        "phrase": "La viande était dure, les fruits de mer des pâtes surgelés et sans goût.",
         "triplets": [
             [
                 "nourriture",
@@ -2490,7 +3710,11 @@
         ]
     },
     {
-        "phrase": "Serveurs désagréables, vous etes pas du coin?\n",
+        "phrase": "Reste le service, sympathique mais un peu trop décontracté qui ne suffit pas à relever l'absence de qualité de ce restaurant.",
+        "triplets": []
+    },
+    {
+        "phrase": "Serveurs désagréables, vous etes pas du coin?",
         "triplets": [
             [
                 "service",
@@ -2500,7 +3724,15 @@
         ]
     },
     {
-        "phrase": "Surtout que le service y est rapide et plutôt agréable, les portions généreuses et le lieux vraiment joli.\n",
+        "phrase": "Quand aux plats, n'y allez pas pour faire une découverte originale, que du \"classique\"....",
+        "triplets": []
+    },
+    {
+        "phrase": "Un restau au bord de l'eau c'est sympa.",
+        "triplets": []
+    },
+    {
+        "phrase": "que le service y est rapide et plutôt agréable, les portions généreuses et le lieux vraiment joli.",
         "triplets": [
             [
                 "service",
@@ -2515,7 +3747,23 @@
         ]
     },
     {
-        "phrase": "Après un accueil et un service moyen, la carte paraissait alléchante mais quand les plats sont arrivés ce n'était pas à la hauteur.\n",
+        "phrase": "Ces pauvres poulpes auraient pu mourir d'un excès de cholestérol s'ils n'avaient pas fini sur la plancha.",
+        "triplets": []
+    },
+    {
+        "phrase": "Et je parle pas de l'aïoli...",
+        "triplets": []
+    },
+    {
+        "phrase": "Dernière remarque, pourquoi du saumon ?",
+        "triplets": []
+    },
+    {
+        "phrase": "N'y a-t-il pas suffisamment de variétés de poissons en Méditerranée ?",
+        "triplets": []
+    },
+    {
+        "phrase": "Après un accueil et un service moyen, la carte paraissait alléchante mais quand les plats sont arrivés ce n'était pas à la hauteur.",
         "triplets": [
             [
                 "service",
@@ -2525,7 +3773,15 @@
         ]
     },
     {
-        "phrase": "Une profiterole proposée XL mais dans l'assiette le chou était trop cuit, donc déception, il vaut mieux avoir une profiterole plus petite mais meilleure.\n",
+        "phrase": "Un tartare de saumon avec trop d'oignons.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un saumon vapeur servi également avec une sauce oignons...",
+        "triplets": []
+    },
+    {
+        "phrase": "Une profiterole proposée XL mais dans l'assiette le chou était trop cuit, donc déception, il vaut mieux avoir une profiterole plus petite mais meilleure.",
         "triplets": [
             [
                 "nourriture",
@@ -2540,7 +3796,27 @@
         ]
     },
     {
-        "phrase": "La viande est toujours cuite comme on le souhaite et si vous n'avez pas assez de frites demandez-en au serveur il vous en apportera une assiette.\n",
+        "phrase": "Désorganisation totale du service, obligé de redemander à plusieurs reprises l'apéritif ainsi que le vin,",
+        "triplets": []
+    },
+    {
+        "phrase": "quand les serveuses et serveuses ne gèrent pas leurs tables...vacances va et vient sans aucune logique de service!",
+        "triplets": []
+    },
+    {
+        "phrase": "S' il vous plaît monsieur le patron remettez de l'ordre dans votre organisation.",
+        "triplets": []
+    },
+    {
+        "phrase": "La personne qui accueille et place les gens ferait mieux de gérer le service au lieu de se promener les mains dans les poches.",
+        "triplets": []
+    },
+    {
+        "phrase": "C'est pas compris d'attribuer à chaque serveur une partie du resto et ainsi chacun peut suivre ses commandes",
+        "triplets": []
+    },
+    {
+        "phrase": "La viande est toujours cuite comme on le souhaite et si vous n'avez pas assez de frites demandez-en au serveur",
         "triplets": [
             [
                 "nourriture",
@@ -2550,7 +3826,7 @@
         ]
     },
     {
-        "phrase": "Le vin blanc était tout à fait adéquat et à un prix plus que raisonnable, 14 euros...\n",
+        "phrase": "Le vin blanc était tout à fait adéquat",
         "triplets": [
             [
                 "boisson",
@@ -2565,7 +3841,7 @@
         ]
     },
     {
-        "phrase": "Les prix pratiqués sont corrects, et la nourriture est bonne, en quantité et avec un large choix (un plateau de fromages affiche plus de 30 spécimens !)\n",
+        "phrase": "Les prix pratiqués sont corrects, et la nourriture est bonne, en quantité et avec un large choix (un plateau de fromages affiche plus de 30 spécimens !)",
         "triplets": [
             [
                 "nourriture",
@@ -2575,17 +3851,11 @@
         ]
     },
     {
-        "phrase": "Le plat du jour comme son nom l'indique est plutôt un gage de fraicheur et qualité; ce jour là si le sanglier était convenable, l'accompagnement très limite à savoir des pâtes desséchées et froides.\n",
-        "triplets": [
-            [
-                "nourriture",
-                "plat",
-                "froides"
-            ]
-        ]
+        "phrase": "Le plat du jour comme son nom l'indique est plutôt un gage de fraicheur et qualité;",
+        "triplets": []
     },
     {
-        "phrase": "Un service convenable, mais à ne pas renouveler, il y a tant de petits restaurants qui savent servir une cuisine de meilleure qualité\n",
+        "phrase": "Un service convenable, mais à ne pas renouveler, il y a tant de petits restaurants qui savent servir une cuisine de meilleure qualité",
         "triplets": [
             [
                 "service",
@@ -2595,7 +3865,7 @@
         ]
     },
     {
-        "phrase": "une pizza assez bonne mais servie sans couverts ?\n",
+        "phrase": "une pizza assez bonne mais servie sans couverts ?",
         "triplets": [
             [
                 "nourriture",
@@ -2605,7 +3875,15 @@
         ]
     },
     {
-        "phrase": "J'ai retenté ma chance avec une bière bouteille 6 euros arrivée ouverte avec une rondelle de citron à l'intérieur ??\n",
+        "phrase": "Une bière pression à 3,7 euros sans bulle avec un goût d'eau, bref une bière coupée à l'eau.",
+        "triplets": []
+    },
+    {
+        "phrase": "Réponse du serveur : oui, on a des problèmes de fût en ce moment ?",
+        "triplets": []
+    },
+    {
+        "phrase": "J'ai retenté ma chance avec une bière bouteille 6 euros arrivée ouverte avec une rondelle de citron à l'intérieur ?",
         "triplets": [
             [
                 "boisson",
@@ -2615,7 +3893,15 @@
         ]
     },
     {
-        "phrase": "Serveurs de 18 ans très sympas mais tips pas possible là ....\n",
+        "phrase": "sans bulle et un goût d'eau",
+        "triplets": []
+    },
+    {
+        "phrase": "La voisine à la table d'à côté a renvoyé son verre de vin blanc sous prétexte qu'il y avait tellement de glaçons qu'elle n'avait plus le goût du vin.",
+        "triplets": []
+    },
+    {
+        "phrase": "Serveurs de 18 ans très sympas mais tips pas possible",
         "triplets": [
             [
                 "service",
@@ -2625,7 +3911,7 @@
         ]
     },
     {
-        "phrase": "par esprit masochiste sans doute, je suis retourné dans ce \"restaurant\" en me disant que peut-être.... en fait rien n'a changé, service nul, avec du personnel mal fagoté, mal habillé, peu professionnel.On attend 20mn pour avoir la carte, si on ne prend pas d'apéro.\n",
+        "phrase": "par esprit masochiste sans doute, je suis retourné dans ce \"restaurant\" en me disant que peut-être.... en fait rien n'a changé, service nul, avec du personnel mal fagoté, mal habillé, peu professionnel.",
         "triplets": [
             [
                 "service",
@@ -2635,7 +3921,51 @@
         ]
     },
     {
-        "phrase": "....quel accueil froid et quel service antipathique!\n",
+        "phrase": "Vin au verre pas frais, en bouteille assez cher et une bière en bouteille peu covaincante",
+        "triplets": []
+    },
+    {
+        "phrase": "service de cantine, la serveuse porte la \"soupe\" de poissons entre ses 2 mains par ce que l'assiette est chaude, sans liteau, sans classe vraiment",
+        "triplets": []
+    },
+    {
+        "phrase": "Du surgelé mais du surgelé pas bon !",
+        "triplets": []
+    },
+    {
+        "phrase": ".... c'est à dire un poulpe qui ressemble à du vrai caoutchouc avec du vinaigre....en gros une simple salade!",
+        "triplets": []
+    },
+    {
+        "phrase": "dans leur eau oui sans sauce : sans intérets!",
+        "triplets": []
+    },
+    {
+        "phrase": "Pour moi le pire reste le service!!",
+        "triplets": []
+    },
+    {
+        "phrase": "Un management inexistant : 15 à 20 minutes d'attente entre chaque plat, une serveuse qui sert des plats sur la table à côté mais qui ne nous débarasse que 10 minutes après...et le must....",
+        "triplets": []
+    },
+    {
+        "phrase": "quand au choix du dessert il ne restait plus qu'un dessert aux fruits rouges sur les 4 possibilités du menu... mon ami n'aimant pas ces derniers...le patron a refusé d'échanger le café contre le dessert qu'il ne prenait pas.....",
+        "triplets": []
+    },
+    {
+        "phrase": "Quant à la salade de fruit acide et pétillante... je soupconne qu'ils y aient mis de l'orangina...",
+        "triplets": []
+    },
+    {
+        "phrase": "Bon service, accueil chaleureux.",
+        "triplets": []
+    },
+    {
+        "phrase": "Je ne retournerai pas dans ce restaurant, même après 10 heures de digestion, la salade de chèvre chaud n'est toujours pas passée.",
+        "triplets": []
+    },
+    {
+        "phrase": "....quel accueil froid et quel service antipathique!",
         "triplets": [
             [
                 "service",
@@ -2645,7 +3975,7 @@
         ]
     },
     {
-        "phrase": "Amateurs de brunch nous y sommes allés un dimanche pour bruncher au soleil sur la terrasse: le brunch est servi à table et non en buffet, il est copieux et plutôt bon: il y a des œufs, du bacon, de la saucisse, des viennoiseries, du saumon et de la salade de fruit , du fromage blanc entres autres, son prix est correct , cependant nous avons été très déçus du service : serveuse speed et mal aimable, elle ne nous a pas débarrassé l'assiette de salé alors qu elle nous avait apporté le café pour les viennoiseries, nous avons mangé nos gaufres sur un coin de table pour ne pas les mélanger au reste de saucisse....pas très pro!\n",
+        "phrase": "nous y sommes allés un dimanche pour bruncher au soleil sur la terrasse: le brunch est servi à table et non en buffet, il est copieux et plutôt bon: il y a des œufs, du bacon, de la saucisse, des viennoiseries, du saumon et de la salade de fruit , du fromage blanc entres autres, son prix est correct , cependant nous avons été très déçus du service : serveuse speed et mal aimable, elle ne nous a pas débarrassé l'assiette de salé alors qu elle nous avait apporté le café pour les viennoiseries, nous avons mangé nos gaufres sur un coin de table pour ne pas les mélanger au reste de saucisse....pas très pro!",
         "triplets": [
             [
                 "nourriture",
@@ -2655,7 +3985,15 @@
         ]
     },
     {
-        "phrase": "Une fois le repas à table, une catastrophe, sans parler des erreurs ou des oublis, une impression de viande avariée et j en passe...\n",
+        "phrase": "Dommage car le brunch était chouette mais l'accueil et le service ne méritent pas que nous revenions .",
+        "triplets": []
+    },
+    {
+        "phrase": "Au départ nous avions déjà l impression de déranger, à la limite pas trop grave ville touristique et beaucoup de monde donc je pense les serveurs fatigués.",
+        "triplets": []
+    },
+    {
+        "phrase": "Une fois le repas à table, une catastrophe, sans parler des erreurs ou des oublis, une impression de viande avariée et j en passe...",
         "triplets": [
             [
                 "nourriture",
@@ -2665,7 +4003,27 @@
         ]
     },
     {
-        "phrase": "Entre la terrasse l été et les tables au coin de la cheminée l hiver, la musique, le cadre réunit tous les ingrédients pour passer une superbe soirée.\n",
+        "phrase": "Le grand +, c'est l'accueil souriant des 2 serveuses, disponibles et connaissant bien les plats.",
+        "triplets": []
+    },
+    {
+        "phrase": "Ai choisi un loup de mer fraichement pêché avec sa ratatouille sur purée accompagné d'une huile d'olive aux agrumes et herbes, le tout se révélant un peu insipide.",
+        "triplets": []
+    },
+    {
+        "phrase": "Je suis d'autant + désolée de l'écrire que le service est un bonheur de gentillesse.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le dessert ne m'a pas laissé de souvenir mémorable (un thé gourmand).",
+        "triplets": []
+    },
+    {
+        "phrase": "Un accueil et service toujours parfait, un très bon choix de vin ( même les pichets sont très bon), d apéritifs et surtout tester les coktails!",
+        "triplets": []
+    },
+    {
+        "phrase": "Entre la terrasse l été et les tables au coin de la cheminée l hiver, la musique, le cadre réunit tous les ingrédients pour passer une superbe soirée.",
         "triplets": [
             [
                 "nourriture",
@@ -2675,7 +4033,15 @@
         ]
     },
     {
-        "phrase": "Comme nous etions en train de boire nos consommations nous avons decide de faire un effort en commandant tous une viande, ne voyant pas le server revenir et au bout de 10 mn nous nous sommes leves pour aller regler la note dans le bureau de tabac apres avoir du attendre car 1 seule caisse le patron me demande d une facon moyennent aimable le numero de table.\n",
+        "phrase": "Une fois attables nous avons du attendre 15mn pour commander nos boissons et avoir les cartes, encore 15 mn plus tard le serveur revient pour prendre notre commande c",
+        "triplets": []
+    },
+    {
+        "phrase": "est la qu il nous annonce qu il n y a ni pizzas ni hamburger ni cannelonis...",
+        "triplets": []
+    },
+    {
+        "phrase": "Comme nous etions en train de boire nos consommations nous avons decide de faire un effort en commandant tous une viande, ne voyant pas le server revenir et au bout de 10 mn nous nous sommes leves pour aller regler la note dans le bureau de tabac apres avoir du attendre car 1 seule caisse le patron me demande d une facon moyennent aimable le numero de table.",
         "triplets": [
             [
                 "nourriture",
@@ -2685,7 +4051,11 @@
         ]
     },
     {
-        "phrase": "Arrivages de poissons journalier, donc extra frais.\n",
+        "phrase": "En même temps, nous somme dans un restaurant de fondues, donc pas de surprises sur ce point la.",
+        "triplets": []
+    },
+    {
+        "phrase": "Arrivages de poissons journalier, donc extra frais.",
         "triplets": [
             [
                 "nourriture",
@@ -2695,7 +4065,21 @@
         ]
     },
     {
-        "phrase": "Le service est sympa et décontracté, le serveur vous met à l'aise tout de suite.\n",
+        "phrase": "Pour ceux qui n'aiment pas le poisson, la carte est diversifiée ;",
+        "triplets": []
+    },
+    {
+        "phrase": "les desserts sont très gourmands !!",
+        "triplets": [
+            [
+                "nourriture",
+                "desserts",
+                "gourmands"
+            ]
+        ]
+    },
+    {
+        "phrase": "Le service est sympa et décontracté, le serveur vous met à l'aise tout de suite.",
         "triplets": [
             [
                 "service",
@@ -2710,7 +4094,15 @@
         ]
     },
     {
-        "phrase": "Service très agréable sur une belle terrasse.\n",
+        "phrase": "Le tout est certes pas donné mais un plat et un dessert restent abordables.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un excellent petit resto avec des produits frais et plats faits maison, ce qui fait une carte réduite mais avec des plats avec un goût exquis.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service très agréable sur une belle terrasse.",
         "triplets": [
             [
                 "service",
@@ -2720,7 +4112,15 @@
         ]
     },
     {
-        "phrase": "Le service est déplorable et tout le restaurant se prend pour un 3* alors que la nourriture est vraiment très très mauvaise!!\n",
+        "phrase": "Le hic: le service, qui devrait être légèrement meilleur pour un restaurant de ce niveau (apéritifs arrivés à 15 minutes d'intervalle, deux serveurs ont voulu nous régler…), il manque un peu d'attention.",
+        "triplets": []
+    },
+    {
+        "phrase": "Cependant le personnel reste très sympathique et l'attente n'est pas excessive (sauf pour l'apéritif, donc).",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service est déplorable et tout le restaurant se prend pour un 3* alors que la nourriture est vraiment très très mauvaise!!",
         "triplets": [
             [
                 "service",
@@ -2730,7 +4130,7 @@
         ]
     },
     {
-        "phrase": "Cuisine typique marocaine, carte simple avec toute les plats du pays.\n",
+        "phrase": "avec toute les plats du pays.",
         "triplets": [
             [
                 "nourriture",
@@ -2740,7 +4140,7 @@
         ]
     },
     {
-        "phrase": "Un plat (très copieux, et resservi si besoin) avec un thé a la menthe pour digérer : 12€\n",
+        "phrase": "Un plat (très copieux, et resservi si besoin) avec un thé a la menthe pour digérer : 12€",
         "triplets": [
             [
                 "nourriture",
@@ -2750,7 +4150,67 @@
         ]
     },
     {
-        "phrase": "Salade aux chèvres peu fraiche, cafés gourmands à 9 € , cadre poussiéreux, service peu professionnel.\n",
+        "phrase": "A ne pas rater si vous êtes a la recherche de saveurs sans se casser le porte-monnaie!",
+        "triplets": []
+    },
+    {
+        "phrase": "Je vous conseille le tartare de saumon à la Thaï.",
+        "triplets": []
+    },
+    {
+        "phrase": "Ensuite les plats...pas de doutes la spécialité très maîtrisé est le burger maison!",
+        "triplets": []
+    },
+    {
+        "phrase": "Un pain élaboré par un boulanger du coin, un steack haché frais, la qualité des produits frais, les frites maison, la petite salade accompagné d'une vinaigrette bien relevée.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les dessert sont à tomber avec le cheesecake au Toblerone !",
+        "triplets": []
+    },
+    {
+        "phrase": "plat / dessert à 2 pour une 40 ene euros",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons été accueilli en terrasse , la viande que j'avais commandée cuisson bleue est arrivée \"saignante\" , pas terrible pour un restaurant spécialiste en viandes!",
+        "triplets": []
+    },
+    {
+        "phrase": "Lorsque le serveur nous demande si ça allait , je lui dis que la viande était bonne mais que la cuisson n'était pas celle que j'avais demandé.",
+        "triplets": []
+    },
+    {
+        "phrase": "Et là, quelle surprise le serveur se vexe, il n'est pas compréhensif, il nous amène l'addition , nous réglons et il ne nous dit même pas au revoir !",
+        "triplets": []
+    },
+    {
+        "phrase": "Des plats au gout infâme réchauffés au micro ondes!",
+        "triplets": []
+    },
+    {
+        "phrase": "Côté boullabaisse, on vous présente un énorme plateau de poisson avant la cuisson.",
+        "triplets": []
+    },
+    {
+        "phrase": "Mais ils ont dû rétrécir à la cuisson",
+        "triplets": []
+    },
+    {
+        "phrase": ", 2 morceaux plein d'arêtes, énormes oignons, un peu de jus...",
+        "triplets": []
+    },
+    {
+        "phrase": "Par contre, les bouteilles de vin n'attendent pas pour être remplacées, et là, l'addition est plus que salée.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats arrivent rapidement.",
+        "triplets": []
+    },
+    {
+        "phrase": "Salade aux chèvres peu fraiche, cafés gourmands à 9 € , cadre poussiéreux, service peu professionnel.",
         "triplets": [
             [
                 "nourriture",
@@ -2760,7 +4220,25 @@
         ]
     },
     {
-        "phrase": "Des plats médiocres, sans saveur et surtout nous sommes ressorties en ayant faim !\n",
+        "phrase": "Petit restaurant de marché sympa, les planchette apéritif sont bonne.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le boeuf est d'une qualité fantastique, les vins nombreux esr disponible au verre, le tartare n'est pas terrible car beaucoup trop de moutarde dans le melange...",
+        "triplets": []
+    },
+    {
+        "phrase": "d'ailleurs de la moutarde dans du tartare... bizarre.",
+        "triplets": [
+            [
+                "nourriture",
+                "moutarde",
+                "bizarre"
+            ]
+        ]
+    },
+    {
+        "phrase": "Des plats médiocres, sans saveur et surtout nous sommes ressorties en ayant faim",
         "triplets": [
             [
                 "nourriture",
@@ -2770,7 +4248,15 @@
         ]
     },
     {
-        "phrase": "Plats appétissants mais on attendait un meilleur goût.\n",
+        "phrase": "pour 4 personnes, avec un apéritif maison, un coca, 2 verres de vin...",
+        "triplets": []
+    },
+    {
+        "phrase": ", 2 plats, 4 € de supplément pour le fromage...",
+        "triplets": []
+    },
+    {
+        "phrase": "Plats appétissants mais on attendait un meilleur goût.",
         "triplets": [
             [
                 "nourriture",
@@ -2780,7 +4266,15 @@
         ]
     },
     {
-        "phrase": "Sauce blanche délicieuse !!!!\n",
+        "phrase": "Accueil sympathique mais service un peu speed.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les produits chauds sont fournis froids (frites, ...) et il manque toujours des éléments de la commande en plus de l'oubli récurrent des sauces, pailles et serviettes .",
+        "triplets": []
+    },
+    {
+        "phrase": "Sauce blanche délicieuse !!",
         "triplets": [
             [
                 "nourriture",
@@ -2790,7 +4284,7 @@
         ]
     },
     {
-        "phrase": "Service sympathique !\n",
+        "phrase": "Service sympathique !",
         "triplets": [
             [
                 "service",
@@ -2800,7 +4294,23 @@
         ]
     },
     {
-        "phrase": "Un menu à 25€ peut vous permettre de bien manger sans trop vous ruiner et les plats de la carte sont très copieux également.\n",
+        "phrase": "Accueil désastreux,sur 3 serveurs, seulement 1 d'entre eux nous a dit bonjour, les serveurs sont sur leur téléphone derrière le bar",
+        "triplets": []
+    },
+    {
+        "phrase": "Quelques soucis de gestion du stock, plusieurs plats non dispo...",
+        "triplets": []
+    },
+    {
+        "phrase": "pour restaurant poisson",
+        "triplets": []
+    },
+    {
+        "phrase": "Pas ici, propreté approximatif, compliqué au niveau du service, quand à la pizza, nul.",
+        "triplets": []
+    },
+    {
+        "phrase": "Un menu à 25€ peut vous permettre de bien manger sans trop vous ruiner et les plats de la carte sont très copieux également.",
         "triplets": [
             [
                 "nourriture",
@@ -2810,7 +4320,11 @@
         ]
     },
     {
-        "phrase": "Bon, bio, cuisson parfaite, chaud, parfumé et légèrement épicé !\n",
+        "phrase": "Goutez la purée aux truffes, un régal!",
+        "triplets": []
+    },
+    {
+        "phrase": "Bon, bio, cuisson parfaite, chaud, parfumé et légèrement épicé !",
         "triplets": [
             [
                 "nourriture",
@@ -2830,7 +4344,11 @@
         ]
     },
     {
-        "phrase": "La petite carte est bien appétissante... hélas j'ai été un peu déçu par les Galettes, pas très grandes, pas très gouteuses, pas très chargés...\n",
+        "phrase": "Aujourd'hui, un bœuf cuisson douce avec des légumes",
+        "triplets": []
+    },
+    {
+        "phrase": "hélas j'ai été un peu déçu par les Galettes, pas très grandes, pas très gouteuses, pas très chargés...",
         "triplets": [
             [
                 "nourriture",
@@ -2840,7 +4358,7 @@
         ]
     },
     {
-        "phrase": "Le cidre est bon...\n",
+        "phrase": "Le cidre est bon...",
         "triplets": [
             [
                 "boisson",
@@ -2850,7 +4368,11 @@
         ]
     },
     {
-        "phrase": "Le service est pro.\n",
+        "phrase": "ET les crêpes sont EXCELLENTES (la pate et les accompagnements).",
+        "triplets": []
+    },
+    {
+        "phrase": "Le service est pro.",
         "triplets": [
             [
                 "service",
@@ -2860,7 +4382,7 @@
         ]
     },
     {
-        "phrase": "C'est la meilleur pizza de Gap et voir même de France.... Demandez la \"comme DAB\" de Chris...\n",
+        "phrase": "C'est la meilleur pizza de Gap et voir même de France....",
         "triplets": [
             [
                 "nourriture",
@@ -2870,7 +4392,7 @@
         ]
     },
     {
-        "phrase": "Un mélange de tout avec crème fraîche dessus, le tout sur une pâte délicieuse et parfaitement cuite...\n",
+        "phrase": "Un mélange de tout avec crème fraîche dessus, le tout sur une pâte délicieuse et parfaitement cuite...",
         "triplets": [
             [
                 "nourriture",
@@ -2885,7 +4407,11 @@
         ]
     },
     {
-        "phrase": "Des plats très copieux, des produits du terroir ainsi qu'un service impeccable plongés dans une très bonne ambiance.\n",
+        "phrase": "Et nous dit texto : si vous désirez café ou digestif c'eSt dans 5 min Max au bar !",
+        "triplets": []
+    },
+    {
+        "phrase": "Des plats très copieux, des produits du terroir ainsi qu'un service impeccable plongés dans une très bonne ambiance.",
         "triplets": [
             [
                 "nourriture",
@@ -2895,7 +4421,11 @@
         ]
     },
     {
-        "phrase": "Aucun accompagnement noté sur le menu n'a été servi nous avons eu des frites congelé jetés sur nos viandes pour camoufler la misère et des haricots grillés pour ceux qui avaient du poisson.\n",
+        "phrase": "Résultat de la salade en sachet avec un toast de fromage ridicule sur une grande tranche de pain de mie et des plats catastrophiques...",
+        "triplets": []
+    },
+    {
+        "phrase": "Aucun accompagnement noté sur le menu n'a été servi nous avons eu des frites congelé jetés sur nos viandes pour camoufler la misère et des haricots grillés pour ceux qui avaient du poisson.",
         "triplets": [
             [
                 "nourriture",
@@ -2905,7 +4435,39 @@
         ]
     },
     {
-        "phrase": "Les nems sont corrects, les quantités sont petites (nous sommes sortis en ayant à peine assez mangé), le poulet croustillant ne l'est pas et baigne dans le gras.\n",
+        "phrase": "Et le désastre du dessert à continuer.",
+        "triplets": []
+    },
+    {
+        "phrase": "c'est cher pour du congelé et du sachet.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous y sommes allés deux fois en quinze jours et avant varié les plats choisis.",
+        "triplets": []
+    },
+    {
+        "phrase": "Résultat, tout est très bon, avec mention spéciale aux ravioles en entrée et à la pintade en plat.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les desserts sont un peu en dessous.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'accueil et le service sont chaleureux.",
+        "triplets": []
+    },
+    {
+        "phrase": "Salade en entrée correct puis quelle déception pour le tartare !",
+        "triplets": []
+    },
+    {
+        "phrase": "Celui ci était pour moi de la viande crue recouverte de ketchup.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les nems sont corrects, les quantités sont petites (nous sommes sortis en ayant à peine assez mangé), le poulet croustillant ne l'est pas et baigne dans le gras.",
         "triplets": [
             [
                 "nourriture",
@@ -2915,7 +4477,7 @@
         ]
     },
     {
-        "phrase": "Restaurant symphatique avec des bonnes pizzas et des salades délicieuses terasse et seul incovenient un escalier a monter si pas de place en bas\n",
+        "phrase": "Restaurant symphatique avec des bonnes pizzas et des salades délicieuses terasse et seul incovenient un escalier a monter si pas de place en bas",
         "triplets": [
             [
                 "nourriture",
@@ -2925,7 +4487,11 @@
         ]
     },
     {
-        "phrase": "Le patron est vraiment super sympa et j'ai même eu droit à une pizza gratuite sans rien demander.\n",
+        "phrase": "dès que j'ai envie d'une pizza je vais là bas.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le patron est vraiment super sympa et j'ai même eu droit à une pizza gratuite sans rien demander.",
         "triplets": [
             [
                 "service",
@@ -2935,7 +4501,7 @@
         ]
     },
     {
-        "phrase": "La pâte est délicieuse et les pizzas sont bien garnies.\n",
+        "phrase": "La pâte est délicieuse et les pizzas sont bien garnies.",
         "triplets": [
             [
                 "nourriture",
@@ -2950,7 +4516,11 @@
         ]
     },
     {
-        "phrase": "Les plats sont bons, typiques, la carte propose beaucoup de choix.\n",
+        "phrase": "Bonne cuisine, un petit bémol pour le service.",
+        "triplets": []
+    },
+    {
+        "phrase": "Les plats sont bons, typiques, la carte propose beaucoup de choix.",
         "triplets": [
             [
                 "nourriture",
@@ -2960,7 +4530,27 @@
         ]
     },
     {
-        "phrase": "Le midi, la carte est simple, on a le choix entre 3 entrées, 3 plats principaux et 3 déserts, sauf qu'au choix du dessert il n'y avait plus le choix mais un seul type de dessert.\n",
+        "phrase": "Dès l'entrée l'accueil du serveur à été assez froid.",
+        "triplets": []
+    },
+    {
+        "phrase": "Arrive les plats, pour ma part un filet de vivaneau à la vietnamienne (juste recouvert d'une sauce hot sweet Chili industriel) et accompagné de légumes sautés (à l'eau...)",
+        "triplets": []
+    },
+    {
+        "phrase": "Total 22€ le poisson, scandaleux !",
+        "triplets": []
+    },
+    {
+        "phrase": "Les 2 autres convives ont pris un bo bun composé d'un pauvre nem coupé en 4, salade,vermicelle et du bœuf que je ne donnerai même pas à mon chien.",
+        "triplets": []
+    },
+    {
+        "phrase": "Et pour conclure la seul réponse du patron \"peut-être avez-vous le goût de quelqu'un qui se nourrit au fast-food \".",
+        "triplets": []
+    },
+    {
+        "phrase": "Le midi, la carte est simple, on a le choix entre 3 entrées, 3 plats principaux et 3 déserts, sauf qu'au choix du dessert il n'y avait plus le choix mais un seul type de dessert.",
         "triplets": [
             [
                 "nourriture",
@@ -2970,7 +4560,11 @@
         ]
     },
     {
-        "phrase": "Le poisson, un peu dur, sans trop de saveur, et de quantité juste avec une bonne présentation\n",
+        "phrase": "J'ai choisi en entrée un gratin de chouchou avec une petite salade trop assaisonnée.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le poisson, un peu dur, sans trop de saveur, et de quantité juste avec une bonne présentation",
         "triplets": [
             [
                 "nourriture",
@@ -2980,7 +4574,7 @@
         ]
     },
     {
-        "phrase": "Le service est assez rapide.\n",
+        "phrase": "Le service est assez rapide.",
         "triplets": [
             [
                 "service",
@@ -2990,7 +4584,11 @@
         ]
     },
     {
-        "phrase": "Décoration sympa, service correcte.\n",
+        "phrase": "Le dessert salade fruit, correct.",
+        "triplets": []
+    },
+    {
+        "phrase": "Décoration sympa, service correcte.",
         "triplets": [
             [
                 "service",
@@ -3000,7 +4598,11 @@
         ]
     },
     {
-        "phrase": "Resto sympa et de très bonne grillades.\n",
+        "phrase": "Carte chère pour la qualité, lenteur de service, plats tièdes.",
+        "triplets": []
+    },
+    {
+        "phrase": "Resto sympa et de très bonne grillades.",
         "triplets": [
             [
                 "nourriture",
@@ -3010,7 +4612,19 @@
         ]
     },
     {
-        "phrase": "Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.\n",
+        "phrase": "le prix est correct ,le service très bien",
+        "triplets": []
+    },
+    {
+        "phrase": "Par contre je n'ai pas goûté les pizzas ;-)",
+        "triplets": []
+    },
+    {
+        "phrase": "Lorsque nous en avons fait la remarque au serveur, en guise de réponse nous avons eu droit à une remarque cynique.",
+        "triplets": []
+    },
+    {
+        "phrase": "Le poisson est très bon, très frais, les portions copieuses, les sauces d'accompagnement et les légumes sont originales et très bonnes.",
         "triplets": [
             [
                 "nourriture",
@@ -3025,7 +4639,35 @@
         ]
     },
     {
-        "phrase": "Plat principal : médaillon de veau avec pommes de terre au four + tomates provençales et choux farcis\n",
+        "phrase": "Boissons sans saveur, choix restreints, on se déplace pour trouver un serveur, on attend qu'il daigne à s'occuper de vous ... ex: un client est aller demander si on pouvait faire quelque chose pour l'insecte dans son plat, et bien non, s'est-il entendu dire, ce n'est pas de notre faute, on ne peut rien faire... service exceptionnel, si on en juge par ce fait divers!",
+        "triplets": []
+    },
+    {
+        "phrase": "Entrée: Saint Jacques en brochettes de qualité moyenne.",
+        "triplets": []
+    },
+    {
+        "phrase": "Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu.",
+        "triplets": []
+    },
+    {
+        "phrase": "Nous avons entendu ce dernier dire depuis la cuisine que si on n'était pas content on n'avait qu'à les manger en purée!",
+        "triplets": []
+    },
+    {
+        "phrase": "Dessert: mousse aux 2 chocolats, bonne mais beaucoup trop sucrée.",
+        "triplets": []
+    },
+    {
+        "phrase": "une carte qui commence a 12e sans salade, un faux filet a 25eu servis qu'avec des frites, et pas une viande limousine !",
+        "triplets": []
+    },
+    {
+        "phrase": "Cassolette de fruits de mer ou salade périgourdine",
+        "triplets": []
+    },
+    {
+        "phrase": "Plat principal : médaillon de veau avec pommes de terre au four + tomates provençales et choux farcis",
         "triplets": [
             [
                 "nourriture",
@@ -3035,7 +4677,21 @@
         ]
     },
     {
-        "phrase": "Nous venons assez régulièrement dans ce restaurant , les plats sont originaux et bien présentés mais la patronne étant seule à servir il arrive souvent que les plats soient tièdes ce qui est bien dommage.\n",
+        "phrase": "Fromage et Dessert",
+        "triplets": []
+    },
+    {
+        "phrase": "café gourmand",
+        "triplets": [
+            [
+                "boisson",
+                "café",
+                "gourmand"
+            ]
+        ]
+    },
+    {
+        "phrase": "Nous venons assez régulièrement dans ce restaurant , les plats sont originaux et bien présentés mais la patronne étant seule à servir il arrive souvent que les plats soient tièdes ce qui est bien dommage.",
         "triplets": [
             [
                 "nourriture",
@@ -3045,7 +4701,21 @@
         ]
     },
     {
-        "phrase": "Vin correct\n",
+        "phrase": "Une carte orientale avec Couscous",
+        "triplets": []
+    },
+    {
+        "phrase": "Tajines en principal dans plusieurs déclinaisons.",
+        "triplets": [
+            [
+                "nourriture",
+                "Tajines",
+                "principal"
+            ]
+        ]
+    },
+    {
+        "phrase": "Vin correct",
         "triplets": [
             [
                 "boisson",
@@ -3055,7 +4725,7 @@
         ]
     },
     {
-        "phrase": "Service sympathique et efficace.\n",
+        "phrase": "Service sympathique et efficace.",
         "triplets": [
             [
                 "service",
@@ -3070,7 +4740,7 @@
         ]
     },
     {
-        "phrase": "De bons desserts\n",
+        "phrase": "De bons desserts",
         "triplets": [
             [
                 "nourriture",
@@ -3080,7 +4750,11 @@
         ]
     },
     {
-        "phrase": "Service rapide et courtois.\n",
+        "phrase": "Une addition correcte 113€ pour 4 personnes avec apéritifs, vin, thé et des couscous personnalisés.",
+        "triplets": []
+    },
+    {
+        "phrase": "Service rapide et courtois",
         "triplets": [
             [
                 "service",
@@ -3090,7 +4764,19 @@
         ]
     },
     {
-        "phrase": "8€50 pour une salade grecque sans saveur: 2 olives , un bout de tomate noyées dans une salade qui baigne dans l'huile.\n",
+        "phrase": "Plat du jour alléchant, je choisie d'y rentrer.",
+        "triplets": []
+    },
+    {
+        "phrase": "L'entrée pas bonne, plus de plat du jour.",
+        "triplets": []
+    },
+    {
+        "phrase": "La sauce envahissait le poisson.",
+        "triplets": []
+    },
+    {
+        "phrase": "8€50 pour une salade grecque sans saveur: 2 olives , un bout de tomate noyées dans une salade qui baigne dans l'huile.",
         "triplets": [
             [
                 "nourriture",
@@ -3100,7 +4786,19 @@
         ]
     },
     {
-        "phrase": "En même temps pas étonnant : le patron est aussi aimable qu'une porte de prison...\n",
+        "phrase": "Les amis voulaient manger des crêpes mais ... impossible de se faire accepter dans celles qui nous avaient été recommandées :nous nous sommes retrouvés chez les tch'ti qui ne sont pas spécialistes des galettes et crêpes.",
+        "triplets": []
+    },
+    {
+        "phrase": "Amoureux de bières, frites charcuterie et portions généreuses vous serez d'autant plus ravis que l'addition est elle légére.",
+        "triplets": []
+    },
+    {
+        "phrase": "Dés que nous sommes rentrés dans l’établissent, nous avons ressenti un stress qui planait autours des employés...",
+        "triplets": []
+    },
+    {
+        "phrase": "En même temps pas étonnant : le patron est aussi aimable qu'une porte de prison...",
         "triplets": [
             [
                 "service",
@@ -3108,5 +4806,13 @@
                 "aimable"
             ]
         ]
+    },
+    {
+        "phrase": "Il dirige ses employés aux claquements de doigts...",
+        "triplets": []
+    },
+    {
+        "phrase": "mais sans plus : morceaux de gras dans le chili, cuisson des viandes mal maitrisée, pas d'amandes sur le dessert alors qu'il devait en avoir...",
+        "triplets": []
     }
 ]

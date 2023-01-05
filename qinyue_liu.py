@@ -58,6 +58,7 @@ def get_aspect_emb(token):
 import sys
 import time
 negation = ["pas", "non", "peu", "guère", "mal", "trop"]
+#negation_d = {"pas":1, "non":1, "peu":1, "guère":1, "mal":1, "trop":1}
 
 def main():
     if (len(sys.argv) != 2):
@@ -73,8 +74,8 @@ def main():
                 
             for doc in spacy_nlp.pipe(phrases):
                 for sent in doc.sents:
-                    triplets = [] # une list de triplets pour chaque phrase
-                    adjs = []
+                    triplets = [] # une liste de triplets pour chaque phrase
+                    adjs = [] # une liste pour stocker tous les adjs
                     term = ""
                     for tok in sent:
                         if (tok.pos_ == "ADJ"):
@@ -106,16 +107,13 @@ def main():
                             # Condition 3: a2 conj avec a1, et a1 soit dans condition 1, soit condition 2
                             if (adj.head in adjs and adj.dep_ == "conj"):
                                 triplets.append( [max_aspect, term, adjectif] )
-                        if (triplets != []):
-                            result = {"phrase": phrase, "triplets": triplets} 
-                            results.append(result)
+                        
+                        result = {"phrase": sent.text.strip(), "triplets": triplets} 
+                        results.append(result)
 
     content = json.dumps(results, indent=4, sort_keys=True, ensure_ascii=False) 
-    with open ("try.json", "w", encoding="utf-8") as f_out:
-        f_out.write(content)  
-                    
-                            
-
+    with open ("resultats.json", "w", encoding="utf-8") as f_out:
+        f_out.write(content)
                         
 start_time = time.time()
 main()
